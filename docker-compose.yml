@@ -11,7 +11,7 @@ services:
     container_name: pxt-microbit
     image: twoodcock/pxt-microbit
     ports:
-      - 8080:80
+      - 8080:8080
       - 3233:3233
     volumes:
       - ./docs:/pxt-microbit/docs
