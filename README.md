@@ -12,11 +12,6 @@ docker-compose -f "docker-compose.yml" up -d --build
 
 Coder will be hosted on port `8443`, while the pxt-microbit instance will be hosted on port `8080`.
 
-### Node Modules (DAPjs)
-At the moment, this repo has not been cleaned up and may contain a load of potentially useless (for this project) node modules.
-That being said, this project relies on the [DAPjs](https://github.com/ARMmbed/dapjs) JavaScript interface for the main serial communication between the webapp and the bridging micro:bit.
-To install the required node modules, be sure to run ``npm install`` before running the server.
-
 ## Project Notes
 This project was made as a learning process for Docker and Docker-Compose. I have produced a [DockerHub repository](https://hub.docker.com/r/twoodcock/pxt-microbit) of the [pxt-microbit](https://github.com/microsoft/pxt-microbit) that can be pulled and run independently from this stack.
 
