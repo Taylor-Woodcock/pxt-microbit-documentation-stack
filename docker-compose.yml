@@ -3,22 +3,25 @@ version: "0.1"
 # Taylor Woodcock
 
 # pxt-microbit install paired with a code-server online VS Code
-# frontend for modifying doc files
+# frontend for modifying doc files using a linked, external volume
 
 services:
+  # An instance of the pxt-microbit MakeCode Block Editor
   pxt-microbit:
     container_name: pxt-microbit
     image: twoodcock/pxt-microbit
     ports:
-      - 8080
-      - 3233
+      - 8080:80
+      - 3233:3233
     volumes:
       - ./docs:/pxt-microbit/docs
+
+  # An instance of code-server VSCode Online
   code-server:
     container_name: code-server
     image: codercom/code-server
-    command: --password=${password}
+    command: --password=testing
     ports:
-      - 8443
+      - 8443:8443
     volumes:
       - ./docs:/home/coder/project
