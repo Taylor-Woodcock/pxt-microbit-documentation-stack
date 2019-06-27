@@ -11,6 +11,7 @@ docker-compose -f "docker-compose.yml" up -d --build
 ```
 
 Coder will be hosted on port `8443`, while the pxt-microbit instance will be hosted on port `8080`.
+To access Coder, visit `localhost:8443`. To access the block editor, visit `localhost:8080`.
 
 ## Project Notes
 This project was made as a learning process for Docker and Docker-Compose. I have produced a [DockerHub repository](https://hub.docker.com/r/twoodcock/pxt-microbit) of the [pxt-microbit](https://github.com/microsoft/pxt-microbit) that can be pulled and run independently from this stack.
