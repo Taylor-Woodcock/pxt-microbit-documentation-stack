@@ -7,6 +7,7 @@ A Docker-compose stack built to assist in the editing of pxt-microbit documentat
 ```
 git clone https://github.com/Taylor-Woodcock/pxt-microbit-documentation-stack --recurse-submodules
 cd pxt-microbit-documentation-stack
+git submodule update --init --recursive --remote
 chmod -R a+rwx energyinschools-pxt-documentation/
 docker-compose -f "docker-compose.yml" up -d --build
 ```
