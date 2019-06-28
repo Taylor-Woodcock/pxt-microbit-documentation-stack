@@ -5,7 +5,7 @@ A Docker-compose stack built to assist in the editing of pxt-microbit documentat
 ### Running
 
 ```
-git clone https://github.com/Taylor-Woodcock/pxt-microbit-documentation-stack
+git clone https://github.com/Taylor-Woodcock/pxt-microbit-documentation-stack --recurse-submodules
 cd pxt-microbit-documentation-stack
 docker-compose -f "docker-compose.yml" up -d --build
 ```
@@ -28,7 +28,7 @@ One changes are made to the markdown files, save the file and navigate back to t
 
 ### Updating EiS
 
-The `/docs` folder is all that is needed to provide EiS with the updated documents. The best way to provide this would be to clone this repo and push changes to a new repo.
+The `/docs` folder has been moved to [its own submodule](https://github.com/Taylor-Woodcock/energyinschools-pxt-documentation). This repo can be updated and will hold all changes made to the documents using this system.
 
 ## Project Notes
 This project was made as a learning process for Docker and Docker-Compose. I have produced a [DockerHub repository](https://hub.docker.com/r/twoodcock/pxt-microbit) of the [pxt-microbit](https://github.com/microsoft/pxt-microbit) that can be pulled and run independently from this stack.
