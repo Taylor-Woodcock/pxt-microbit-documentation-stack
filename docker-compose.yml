@@ -14,7 +14,7 @@ services:
       - 8080:8080
       - 3233:3233
     volumes:
-      - ./docs:/pxt-microbit/docs
+      - ./energyinschools-pxt-documentation/docs:/pxt-microbit/docs
 
   # An instance of code-server VSCode Online
   code-server:
@@ -24,4 +24,4 @@ services:
     ports:
       - 8443:8443
     volumes:
-      - ./docs:/home/coder/project
+      - ./energyinschools-pxt-documentation/docs:/home/coder/project
