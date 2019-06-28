@@ -30,4 +30,4 @@ devices
 
 ## See Also
 
-[tellCameraTo](/reference/devices/tell-camera-to), [tellRemoteControlTo](/reference/devices/tell-remote-control-to), [raiseAlertTo](/reference/devices/raise-alert-to), [onNotified](/reference/devices/on-notified), [onGamepadButton](/reference/devices/on-gamepad-button), [signalStrength](/reference/devices/signal-strength), [onSignalStrengthChanged](/reference/devices/on-signal-strength-changed)
+[tellCameraTo](/makecode-blockeditor/reference/devices/tell-camera-to), [tellRemoteControlTo](/makecode-blockeditor/reference/devices/tell-remote-control-to), [raiseAlertTo](/makecode-blockeditor/reference/devices/raise-alert-to), [onNotified](/makecode-blockeditor/reference/devices/on-notified), [onGamepadButton](/makecode-blockeditor/reference/devices/on-gamepad-button), [signalStrength](/makecode-blockeditor/reference/devices/signal-strength), [onSignalStrengthChanged](/makecode-blockeditor/reference/devices/on-signal-strength-changed)

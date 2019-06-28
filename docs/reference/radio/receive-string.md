@@ -9,7 +9,7 @@ radio.receiveString()
 
 **Deprecated**
 
-This API has been deprecated! Use [on received string](/reference/radio/on-received-string) instead.
+This API has been deprecated! Use [on received string](/makecode-blockeditor/reference/radio/on-received-string) instead.
 
 ## ~
 
@@ -91,7 +91,7 @@ radio.onDataReceived(() => {
 
 ## See also
 
-[send string](/reference/radio/send-string), [on data received](/reference/radio/on-data-received)
+[send string](/makecode-blockeditor/reference/radio/send-string), [on data received](/makecode-blockeditor/reference/radio/on-data-received)
 
 ```package
 radio

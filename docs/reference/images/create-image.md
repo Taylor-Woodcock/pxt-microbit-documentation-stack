@@ -1,6 +1,6 @@
 # Create Image
 
-Make an [image](/reference/images/image) (picture) for the @boardname@
+Make an [image](/makecode-blockeditor/reference/images/image) (picture) for the @boardname@
 [LED screen](/device/screen).
 
 ```sig
@@ -47,8 +47,8 @@ input.onButtonPressed(Button.B, () => {
 
 ## See also
 
-[image](/reference/images/image),
-[create big image](/reference/images/create-big-image),
-[show image](/reference/images/show-image),
-[scroll image](/reference/images/scroll-image), [show animation](/reference/basic/show-animation)
+[image](/makecode-blockeditor/reference/images/image),
+[create big image](/makecode-blockeditor/reference/images/create-big-image),
+[show image](/makecode-blockeditor/reference/images/show-image),
+[scroll image](/makecode-blockeditor/reference/images/scroll-image), [show animation](/makecode-blockeditor/reference/basic/show-animation)
 

@@ -1,103 +1,37 @@
-![](/static/mb/device/pano.jpg)
+![](/makecode-blockeditor/static/eis/polar-bear.jpg)
 
 # About
 
 ## @description A Blocks / Javascript code editor for the micro:bit, a pocket-size computer with 5x5 display, sensors and Bluetooth.
 
-The [BBC micro:bit](https://microbit.org) is a [pocket-size computer](/device) with a 5x5 display of 25 LEDs, Bluetooth and sensors that can be programmed by anyone. The BBC micro:bit was made possible by many [partners](https://www.microbit.co.uk/partners).
+## Energy in Schools Learning Environment
 
-The micro:bit provides an easy and fun introduction to programming and making – switch on, program it to do something fun – wear it, customize it.
-Just like Arduino, the micro:bit can be connected to and interact with sensors, displays, and other devices. 
+Welcome to Energy in Schools, an interactive learning environment which aims to change behaviour towards energy consumption through learning about energy, using data collected in your school through Samsung Smart Things Hub and even design and build energy saving devices using the micro:bit.
 
-* [Read the docs](/docs)
+These materials have been designed so that children can; 
 
-## [Hardware: The Device](/device)
+* Learn about Energy, including energy generation, the impact on climate change and energy use in school and home
 
-The BBC micro:bit is packaged with sensors, radio and other goodies. Learn about the [hardware components](/device) of the micro:bit to make the most of it!
+
+* Learn how to programme micro:bits to learn about the school environment
+
+
+* Read and act on data collected from the Samsung Smart Things System
+
+
+* Explore energy information from your micro:bits. Link it with national energy data. Share and compare with other schools.
+
+
+* Make your energy info visual on a model/posters: school hot spots & cold corners, energy use now & then
+
+
+* Generate ideas, design and carry out projects which will enable pupils to be proactive in managing their schools energy use
+
+
+As well as practical Energy in Schools projects using the micro:bit and Makecode editor, we have provided teaching materials  based on Energy and Internet of Things. We also provide hints and tips so that your school Energy Champions can develop their own energy saving projects for the school.
 
 ## ~ hint
 
-**Looking to buy a micro:bit?** See the [list of resellers](https://microbit.org/resellers).
+**Looking to buy a SmartThings Hub?** See [This page](https://www.amazon.co.uk/Samsung-GP-U999SJVLGEA-SmartThings-Hub-2018/dp/B07H9G68DW/ref=sr_1_3?adgrpid=58619483692&hvadid=259045558956&hvdev=c&hvlocphy=9046580&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=14851530544842388301&hvtargid=kwd-317219635143&keywords=smartthings+hub&qid=1554982795&s=gateway&sr=8-3)
 
 ## ~
-
-## Programming: [Blocks](/blocks) or [JavaScript](/javascript)
-
-You can program the micro:bit using [Blocks](/blocks) or [JavaScript](/javascript) in your web browser via the [micro:bit APIs](/reference):
-
-```block
-input.onButtonPressed(Button.A, () => {
-    basic.showString("Hi!");
-})
-```
-```typescript
-input.onButtonPressed(Button.A, () => {
-    basic.showString("Hi!");
-})
-```
-
-The editor work in [most modern browsers](/browsers), work [offline](/offline) once loaded and do not require any installation. 
-
-## [Compile and Flash: Your Program!](/device/usb)
-
-When you have your code ready, you connect your micro:bit to a computer via a USB cable, so it appears as a mounted drive (named MICROBIT). 
-
-Compilation to ARM thumb machine code from [Blocks](/blocks) or [JavaScript](/javascript) happens in the browser. You save the ARM binary 
-program to a file, which you then copy to the micro:bit drive, which flashes the micro:bit device with the new program.
-
-## Simulator: Test Your Code
-
-You can run your code using the micro:bit simulator, all within the confines of a web browser. 
-The simulator has support for the LED screen, buttons, as well as compass, accelerometer, and digital I/O pins.
-
-```sim
-basic.forever(() => {
-  basic.showString("Hi!");
-})
-input.onButtonPressed(Button.A, () => {
-    led.stopAnimation();
-    basic.showLeds(`
-. . . . .
-. # . # .
-. . . . .
-# . . . #
-. # # # .`);
-});
-input.onButtonPressed(Button.B, () => {
-    led.stopAnimation();
-    basic.showLeds(`
-. # . # .
-# . # . #
-# . . . #
-. # . # .
-. . # . .`);
-});
-```
-
-## Learn!
-
-We have tons of [projects](/projects), [examples](/examples) and [courses](/courses) to get your started!
-
-## C++ Runtime
-
-The [C++ micro:bit runtime](http://lancaster-university.github.io/microbit-docs/), created at [Lancaster University](http://www.lancaster.ac.uk/), provides access to the hardware functions of the micro:bit, 
-as well as a set of helper functions (such as displaying a number/image/string on the LED screen). 
-
-The [micro:bit library](/reference) mirrors the functions of the C++ library. 
-When code is compiled to ARM machine code, the calls to JavaScript micro:bit functions are replaced with calls to the corresponding C++ functions.
-
-## [Command Line Tools](/cli)
-
-Looking to use @homeurl@ in your favorite editor? Install the [command line tools](/cli) and get rolling!
-
-## [Extensions](/extensions)
-
-Create, edit and distribute your own blocks and JavaScript using [extensions](/extensions). Extensions are hosted on GitHub and may be written using C++, JavaScript and/or ARM thumb.
-
-## [Open Source](/open-source)
-
-The code for the micro:bit is [open source](/open-source) on GitHub. Contributors are welcome!
-
-```package
-radio
-```

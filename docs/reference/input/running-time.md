@@ -27,5 +27,5 @@ input.onButtonPressed(Button.B, () => {
 
 ## See also
 
-[show number](/reference/basic/show-number), [pause](/reference/basic/pause)
+[show number](/makecode-blockeditor/reference/basic/show-number), [pause](/makecode-blockeditor/reference/basic/pause)
 

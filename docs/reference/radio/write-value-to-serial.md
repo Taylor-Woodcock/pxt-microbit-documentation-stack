@@ -10,7 +10,7 @@ radio.writeValueToSerial();
 
 **Deprecated**
 
-This API has been deprecated! Use [write received packet to serial](/reference/radio/write-received-packet-to-serial) instead.
+This API has been deprecated! Use [write received packet to serial](/makecode-blockeditor/reference/radio/write-received-packet-to-serial) instead.
 
 ## ~
 
@@ -18,9 +18,9 @@ This API has been deprecated! Use [write received packet to serial](/reference/r
 
 The format for received data printed to serial is as follows:
 
-- [send number](/reference/radio/send-number): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber}```
-- [send value](/reference/radio/send-value): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber,n:"Name"}```
-- [send string](/reference/radio/send-string): ```{t:MicrobitTimeAlive,s:SerialNumber,n:"Text"}```
+- [send number](/makecode-blockeditor/reference/radio/send-number): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber}```
+- [send value](/makecode-blockeditor/reference/radio/send-value): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber,n:"Name"}```
+- [send string](/makecode-blockeditor/reference/radio/send-string): ```{t:MicrobitTimeAlive,s:SerialNumber,n:"Text"}```
 
 ## Examples
 
@@ -44,10 +44,10 @@ Sample output to serial when ``A`` button pressed:
 
 ## See also
 
-[send number](/reference/radio/send-number),
-[send value](/reference/radio/send-value),
-[send string](/reference/radio/send-string),
-[on data packet received](/reference/radio/on-data-packet-received)
+[send number](/makecode-blockeditor/reference/radio/send-number),
+[send value](/makecode-blockeditor/reference/radio/send-value),
+[send string](/makecode-blockeditor/reference/radio/send-string),
+[on data packet received](/makecode-blockeditor/reference/radio/on-data-packet-received)
 
 ```package
 radio

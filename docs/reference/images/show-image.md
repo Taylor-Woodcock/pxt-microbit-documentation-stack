@@ -1,6 +1,6 @@
 # Show Image
 
-Show an [image](/reference/images/image) (picture) on the
+Show an [image](/makecode-blockeditor/reference/images/image) (picture) on the
 [LED screen](/device/screen).  After the @boardname@ shows an image, it
 will pause for 400 milliseconds (1000 milliseconds is one second).
 
@@ -11,7 +11,7 @@ item.showImage(0);
 
 ## Parameters
 
-* an [image](/reference/images/image) (picture). It is usually a square with five LEDs on a side, but it might be wider. 
+* an [image](/makecode-blockeditor/reference/images/image) (picture). It is usually a square with five LEDs on a side, but it might be wider. 
 * a [number](/types/number) that says how many LEDs from the left of the picture the @boardname@ should start. `0` means start at the first **frame** of the picture, `5` means start at the second frame, `10` means start at the third, and so on.
 
 ## Example: Flip-flopping arrow
@@ -41,7 +41,7 @@ input.onButtonPressed(Button.B, () => {
 
 ## See also
 
-[image](/reference/images/image),
-[create image](/reference/images/create-image),
-[create big image](/reference/images/create-big-image),
-[scroll image](/reference/images/scroll-image), [show animation](/reference/basic/show-animation)
+[image](/makecode-blockeditor/reference/images/image),
+[create image](/makecode-blockeditor/reference/images/create-image),
+[create big image](/makecode-blockeditor/reference/images/create-big-image),
+[scroll image](/makecode-blockeditor/reference/images/scroll-image), [show animation](/makecode-blockeditor/reference/basic/show-animation)

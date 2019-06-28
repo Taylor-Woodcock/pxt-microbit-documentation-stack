@@ -23,4 +23,4 @@ basic.showIcon(IconNames.Sad)
 
 ## See also
 
-[showLeds](/reference/basic/show-leds)
+[showLeds](/makecode-blockeditor/reference/basic/show-leds)

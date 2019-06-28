@@ -35,7 +35,7 @@ bluetooth.advertiseUrl("https://pxt.io?secret=42", 7, true);
 
 ## See Also
 
-[stop-advertising](/reference/bluetooth/stop-advertising), [advertise-uid](/reference/bluetooth/advertise-uid)
+[stop-advertising](/makecode-blockeditor/reference/bluetooth/stop-advertising), [advertise-uid](/makecode-blockeditor/reference/bluetooth/advertise-uid)
 
 ```package
 bluetooth

@@ -21,7 +21,7 @@ Also, you can see how the message bus works in the DAL core files:
 
 ## Raised events
 
-Events are generated, or _raised_, for by the @boardname@ for a paired device. These are raised using the [raise event](/reference/control/raise-event) function.
+Events are generated, or _raised_, for by the @boardname@ for a paired device. These are raised using the [raise event](/makecode-blockeditor/reference/control/raise-event) function.
 
 ```typescript-ignore
 control.raiseEvent(
@@ -81,7 +81,7 @@ Trigger standard alert notifications on a device.
 
 ## Received events
 
-Events are received by the @boardname@ from a paired device. You capture these in an [on event](/reference/control/on-event) function.
+Events are received by the @boardname@ from a paired device. You capture these in an [on event](/makecode-blockeditor/reference/control/on-event) function.
 
 ```typescript-ignore
 control.onEvent(EventBusSource.MES_DEVICE_INFO_ID, EventBusValue.MES_DEVICE_INCOMING_CALL, () => {
@@ -141,5 +141,5 @@ Button events from a paired game pad.
 
 ## See also
 
-[raise event](/reference/control/raise-event), [on event](/reference/control/on-event),
-[event value](/reference/control/event-value)
+[raise event](/makecode-blockeditor/reference/control/raise-event), [on event](/makecode-blockeditor/reference/control/on-event),
+[event value](/makecode-blockeditor/reference/control/event-value)

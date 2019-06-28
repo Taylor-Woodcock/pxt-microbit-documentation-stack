@@ -26,7 +26,7 @@ basic.forever(() => {
 
 ### Streaming data
 
-Check the [compass heading](/reference/input/compass-heading) and show the direction on the screen. Also, send both the direction and degree heading to the serial port.
+Check the [compass heading](/makecode-blockeditor/reference/input/compass-heading) and show the direction on the screen. Also, send both the direction and degree heading to the serial port.
 
 ```blocks
 let degrees = 0
@@ -57,6 +57,6 @@ basic.forever(() => {
 ## See also
 
 [serial](/device/serial),
-[serial write number](/reference/serial/write-number),
-[serial write string](/reference/serial/write-string),
-[serial write value](/reference/serial/write-value)
+[serial write number](/makecode-blockeditor/reference/serial/write-number),
+[serial write string](/makecode-blockeditor/reference/serial/write-string),
+[serial write value](/makecode-blockeditor/reference/serial/write-value)

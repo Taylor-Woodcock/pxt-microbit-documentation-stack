@@ -23,5 +23,5 @@ basic.clearScreen()
 
 ## See also
 
-[set brightness](/reference/led/set-brightness), [unplot](/reference/led/unplot), [plot](/reference/led/plot), [Image](/reference/images/image)
+[set brightness](/makecode-blockeditor/reference/led/set-brightness), [unplot](/makecode-blockeditor/reference/led/unplot), [plot](/makecode-blockeditor/reference/led/plot), [Image](/makecode-blockeditor/reference/images/image)
 

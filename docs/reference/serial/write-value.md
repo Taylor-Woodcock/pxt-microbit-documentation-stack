@@ -40,7 +40,7 @@ basic.forever(() => {
 
 ### ~hint
 
-The [send value](/reference/radio/send-value) function broadcasts
+The [send value](/makecode-blockeditor/reference/radio/send-value) function broadcasts
 string/number pairs.  You can use a second @boardname@ to receive them,
 and then send them directly to the serial port with ``write value``.
 
@@ -49,6 +49,6 @@ and then send them directly to the serial port with ``write value``.
 ## See also
 
 [serial](/device/serial),
-[serial write line](/reference/serial/write-line),
-[serial write number](/reference/serial/write-number),
-[send value](/reference/radio/send-value)
+[serial write line](/makecode-blockeditor/reference/serial/write-line),
+[serial write number](/makecode-blockeditor/reference/serial/write-number),
+[send value](/makecode-blockeditor/reference/radio/send-value)

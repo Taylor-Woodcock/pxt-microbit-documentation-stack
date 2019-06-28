@@ -39,7 +39,7 @@ UID instance: [0, ..., instance]
 
 ## See Also
 
-[stop-advertising](/reference/bluetooth/stop-advertising), [advertise-uid-buffer](/reference/bluetooth/advertise-uid-buffer)
+[stop-advertising](/makecode-blockeditor/reference/bluetooth/stop-advertising), [advertise-uid-buffer](/makecode-blockeditor/reference/bluetooth/advertise-uid-buffer)
 
 ```package
 bluetooth

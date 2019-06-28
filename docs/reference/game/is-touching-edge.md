@@ -6,16 +6,17 @@ Sprites are touching the edge if they overlap with an LED on the edge
 of the screen.
 
 ```sig
-game.createSprite(0, 2).isTouchingEdge();
+let item: game.LedSprite = null;
+item.isTouchingEdge();
 ```
 
 ## Parameters
 
-* a **sprite** that might be touching the edge of the screen.
+* a **sprite** that might be touching the edge of the screen
 
 ## Returns
 
-* `true` if the sprite is touching the edge of the screen.
+`true` if the sprite is touching the edge of the screen
 
 ## Example
 
@@ -34,6 +35,6 @@ if (item.isTouchingEdge()) {
 	
 ## See also
 
-[create sprite](/reference/game/create-sprite),
-[is touching](/reference/game/is-touching),
-[if on edge, bounce](/reference/game/if-on-edge-bounce)
+[create sprite](/makecode-blockeditor/reference/game/create-sprite),
+[is touching](/makecode-blockeditor/reference/game/is-touching),
+[if on edge, bounce](/makecode-blockeditor/reference/game/if-on-edge-bounce)

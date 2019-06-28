@@ -43,7 +43,7 @@ A radio that can both transmit and receive is called a _transceiver_.
 
 ## See also
 
-[on received string](/reference/radio/on-received-string)
+[on received string](/makecode-blockeditor/reference/radio/on-received-string)
 
 ```package
 radio

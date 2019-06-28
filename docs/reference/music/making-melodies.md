@@ -69,6 +69,6 @@ let beet5 = ['G:1', 'G:1', 'G:1', 'Eb', 'F:1', 'F:1', 'F:1', 'D']
 
 ## See also
 
-[begin melody](/reference/music/begin-melody)
+[begin melody](/makecode-blockeditor/reference/music/begin-melody)
 
 [Tempo](https://wikipedia.org/wiki/Tempo)

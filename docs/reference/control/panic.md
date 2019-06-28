@@ -37,4 +37,4 @@ if (pins.analogReadPin(AnalogPin.P0) < 10) {
 
 ## See also
 
-[assert](/reference/control/assert), [error codes](/device/error-codes)
+[assert](/makecode-blockeditor/reference/control/assert), [error codes](/device/error-codes)

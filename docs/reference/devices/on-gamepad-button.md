@@ -18,7 +18,7 @@ devices.onGamepadButton(MesDpadButtonInfo.ADown, () => {})
 
 ## See Also
 
-[tell remote control to](/reference/devices/tell-remote-control-to), [raise alert to](/reference/devices/raise-alert-to), [signal strength](/reference/devices/signal-strength), [on signal strength changed](/reference/devices/on-signal-strength-changed)
+[tell remote control to](/makecode-blockeditor/reference/devices/tell-remote-control-to), [raise alert to](/makecode-blockeditor/reference/devices/raise-alert-to), [signal strength](/makecode-blockeditor/reference/devices/signal-strength), [on signal strength changed](/makecode-blockeditor/reference/devices/on-signal-strength-changed)
 
 ```package
 devices

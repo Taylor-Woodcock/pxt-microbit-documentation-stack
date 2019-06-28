@@ -31,7 +31,7 @@ input.onButtonPressed(Button.A, () => {
 
 ## See Also
 
-[advertise-url](/reference/bluetooth/advertise-url)
+[advertise-url](/makecode-blockeditor/reference/bluetooth/advertise-url)
 
 ```package
 bluetooth

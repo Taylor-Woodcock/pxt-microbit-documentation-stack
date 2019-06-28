@@ -1,7 +1,7 @@
 # Set Accelerometer Range
 
 Set up the part of the @boardname@ that measures
-[acceleration](/reference/input/acceleration) (how much the microbit
+[acceleration](/makecode-blockeditor/reference/input/acceleration) (how much the microbit
 is speeding up or slowing down), in case you need to measure high
 or low acceleration.
 
@@ -37,5 +37,5 @@ This program does not work in the simulator, only in a @boardname@.
 
 ## See Also
 
-[compass heading](/reference/input/compass-heading),
-[light level](/reference/input/light-level)
+[compass heading](/makecode-blockeditor/reference/input/compass-heading),
+[light level](/makecode-blockeditor/reference/input/light-level)

@@ -71,7 +71,7 @@ basic.forever(() => {
 
 ## See also
 
-[set accelerometer range](/reference/input/set-accelerometer-range),
-[compass heading](/reference/input/compass-heading),
-[light level](/reference/input/light-level)
+[set accelerometer range](/makecode-blockeditor/reference/input/set-accelerometer-range),
+[compass heading](/makecode-blockeditor/reference/input/compass-heading),
+[light level](/makecode-blockeditor/reference/input/light-level)
 

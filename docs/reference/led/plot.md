@@ -8,7 +8,7 @@ led.plot(0,0);
 
 ## ~hint
 
-Use [unplot](/reference/led/unplot) to turn **off** an LED.
+Use [unplot](/makecode-blockeditor/reference/led/unplot) to turn **off** an LED.
 
 ## ~
 
@@ -20,7 +20,7 @@ Use [unplot](/reference/led/unplot) to turn **off** an LED.
 * ``y`` is a [number](/types/number) that means the vertical
   spot on the LED screen (from top to bottom: 0, 1, 2, 3, or 4)
 
-If a parameter is [out of bounds](/reference/out-of-bounds) (a value
+If a parameter is [out of bounds](/makecode-blockeditor/reference/out-of-bounds) (a value
 other than 0 to 4), then this function will do nothing.
 
 ## ~hint
@@ -58,11 +58,11 @@ for (let i = 0; i < 5; i++) {
 
 ## ~hint
 
-Use the [point](/reference/led/point) function to find out if an LED is
+Use the [point](/makecode-blockeditor/reference/led/point) function to find out if an LED is
 on or off.
 
 ## ~
 
 ## See also
 
-[unplot](/reference/led/unplot), [point](/reference/led/point), [LED screen](/device/screen)
+[unplot](/makecode-blockeditor/reference/led/unplot), [point](/makecode-blockeditor/reference/led/point), [LED screen](/device/screen)

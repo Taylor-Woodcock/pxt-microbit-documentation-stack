@@ -19,7 +19,7 @@ function getTimeData() {
 }
 ```
 
-The command to read the time uses just one number so we use [i2cWriteNumber](/reference/pins/i2c-write-number) to send this command. The time data that the RTC gives us comes back as a buffer from [i2cReadBuffer](/reference/pins/i2c-read-buffer).
+The command to read the time uses just one number so we use [i2cWriteNumber](/makecode-blockeditor/reference/pins/i2c-write-number) to send this command. The time data that the RTC gives us comes back as a buffer from [i2cReadBuffer](/makecode-blockeditor/reference/pins/i2c-read-buffer).
 
 ## Reading from a buffer
 
@@ -111,4 +111,4 @@ input.onButtonPressed(Button.B, () => {
 ## See also
 
 [buffer](/types/buffer), [number format](types/buffer/number-format),
-[serial read buffer](/reference/serial/read-buffer), [serial write buffer](/reference/serial/write-buffer)
+[serial read buffer](/makecode-blockeditor/reference/serial/read-buffer), [serial write buffer](/makecode-blockeditor/reference/serial/write-buffer)

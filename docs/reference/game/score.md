@@ -22,4 +22,4 @@ input.onButtonPressed(Button.A, () => {
 
 ## See Also
 
-[change score by](/reference/game/score), [start countdown](/reference/game/start-countdown)
+[change score by](/makecode-blockeditor/reference/game/score), [start countdown](/makecode-blockeditor/reference/game/start-countdown)

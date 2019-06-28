@@ -8,7 +8,7 @@ radio.onReceivedString(function (receivedString) {})
 
 ## Parameters
 
-* **receivedString**: The [string](/types/string) that was sent in this packet or the empty string if this packet did not contain a string. See [send string](/reference/radio/send-string) and [send value](/reference/radio/send-value)
+* **receivedString**: The [string](/types/string) that was sent in this packet or the empty string if this packet did not contain a string. See [send string](/makecode-blockeditor/reference/radio/send-string) and [send value](/makecode-blockeditor/reference/radio/send-value)
 
 ## ~ hint
 
@@ -39,12 +39,12 @@ The radio set group might need to be set, synchronized, before the radio events 
 
 ## See also
 
-[on received number](/reference/radio/on-received-number),
-[received packet](/reference/radio/received-packet),
-[send number](/reference/radio/send-number),
-[send string](/reference/radio/send-string),
-[send value](/reference/radio/send-value),
-[set group](/reference/radio/set-group)
+[on received number](/makecode-blockeditor/reference/radio/on-received-number),
+[received packet](/makecode-blockeditor/reference/radio/received-packet),
+[send number](/makecode-blockeditor/reference/radio/send-number),
+[send string](/makecode-blockeditor/reference/radio/send-string),
+[send value](/makecode-blockeditor/reference/radio/send-value),
+[set group](/makecode-blockeditor/reference/radio/set-group)
 
 ```package
 radio

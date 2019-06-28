@@ -42,6 +42,6 @@ pins.i2cWriteBuffer(i2cDevice, i2cBuffer, false)
 
 ## See also
 
-[i2c read buffer](/reference/pins/i2c-read-buffer), [buffer](/types/buffer)
+[i2c read buffer](/makecode-blockeditor/reference/pins/i2c-read-buffer), [buffer](/types/buffer)
 
 [What's I2C?](http://www.i2c-bus.org/)

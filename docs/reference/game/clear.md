@@ -2,7 +2,7 @@
 
 The clear function for images.
 
-Turn off all the pixels in an [Image](/reference/images/image).
+Turn off all the pixels in an [Image](/makecode-blockeditor/reference/images/image).
 
 ## JavaScript
 
@@ -35,5 +35,5 @@ input.onButtonPressed(Button.A, () => {
 
 ## See also
 
-[Image](/reference/images/image), [show animation](/reference/basic/show-animation), [show image](/reference/images/show-image), [scroll image](/reference/images/scroll-image), [create image](/reference/images/create-image)
+[Image](/makecode-blockeditor/reference/images/image), [show animation](/makecode-blockeditor/reference/basic/show-animation), [show image](/makecode-blockeditor/reference/images/show-image), [scroll image](/makecode-blockeditor/reference/images/scroll-image), [create image](/makecode-blockeditor/reference/images/create-image)
 

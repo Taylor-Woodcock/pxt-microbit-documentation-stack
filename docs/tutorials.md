@@ -1,4 +1,4 @@
-# Projects
+# Tutorials
 
 Here are some cool tutorials to get you started with your @boardname@!
 
@@ -6,44 +6,31 @@ Here are some cool tutorials to get you started with your @boardname@!
 
 ```codecard
 [{
-  "name": "Flashing Heart",
-  "url":"/projects/flashing-heart",
-  "description": "Make an animated flashing heart.",
-  "imageUrl": "/static/mb/projects/a1-display.png",
-  "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif",
+  "name": "Door Magnet Sensor",
+  "url":"/tutorials/door-open-close",
+  "description": "Make a door open close sensor.",
+  "imageUrl": "/makecode-blockeditor/static/eis/tutorials/door-open-close/door-smile.jpg",
+  "largeImageUrl": "/makecode-blockeditor/static/eis/tutorials/door-open-close/door-smile.jpg",
   "cardType": "tutorial",
   "label": "New? Start Here!",
-  "labelClass": "purple ribbon large"
+  "labelClass": "orange ribbon large"
 }, {
-  "name": "Name Tag",
-  "description": "Scroll your name on the screen",
-  "imageUrl": "/static/mb/projects/name-tag.png",
-  "url": "/projects/name-tag",
-  "cardType": "tutorial"
+  "name": "Fossil Fuel Light Bulb Controller",
+  "url":"/tutorials/fossil-fuel-lightbulb",
+  "description": "Control a light bulb's colour based off current energy production.",
+  "imageUrl": "/makecode-blockeditor/static/eis/tutorials/fossil-fuel-lightbulb/bulbs-changing-colour.gif",
+  "largeImageUrl": "/makecode-blockeditor/static/eis/tutorials/fossil-fuel-lightbulb/bulbs-changing-colour.gif",
+  "cardType": "tutorial",
+  "label": "IoT",
+  "labelClass": "orange ribbon large"
 }, {
-  "name": "Smiley Buttons",
-  "url":"/projects/smiley-buttons",
-  "description": "Show different smiley images by pressing the buttons.",
-  "imageUrl": "/static/mb/projects/a2-buttons.png",
-  "largeImageUrl": "/static/mb/projects/smiley-buttons/sim.gif",
-  "cardType": "tutorial"
-}, {
-  "name": "Dice",
-  "url":"/projects/dice",
-  "description": "Shake the dice and see what number comes up!",
-  "imageUrl": "/static/mb/projects/dice.png",
-  "cardType": "tutorial"
-}, {
-  "name": "Love Meter",
-  "url":"/projects/love-meter",
-  "description": "Is the micro:bit is feeling the love, see how much!",
-  "imageUrl":"/static/mb/projects/a3-pins.png",
-  "cardType": "tutorial"
-}, {
-  "name": "Micro Chat",
-  "url":"/projects/micro-chat",
-  "description": "Build your own social network made of micro:bits.",
-  "imageUrl": "/static/mb/projects/a9-radio.png",
-  "cardType": "tutorial"
+   "name": "Micro:bit Energy Meter",
+   "url":"/tutorials/energy-meter",
+   "description": "Sense the amount of energy an appliance uses in watts using the micro:bit's compass.",
+   "imageUrl": "/makecode-blockeditor/static/eis/tutorials/energy-meter/appliances.jpg",
+   "largeImageUrl": "/makecode-blockeditor/static/eis/tutorials/energy-meter/appliances.jpg",
+   "cardType": "tutorial",
+   "label": "Energy",
+   "labelClass": "orange ribbon large"
 }]
 ```

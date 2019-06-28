@@ -30,4 +30,4 @@ More information at http://tech.microbit.org/hardware/edgeconnector_ds/ .
 
 ## See also
 
-[unplot](/reference/led/unplot), [point](/reference/led/point), [LED screen](/device/screen)
+[unplot](/makecode-blockeditor/reference/led/unplot), [point](/makecode-blockeditor/reference/led/point), [LED screen](/device/screen)

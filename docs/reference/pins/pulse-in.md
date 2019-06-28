@@ -50,4 +50,4 @@ basic.forever(() => {
 
 ## See also
 
-[digital write pin](/reference/pins/digital-write-pin)
+[digital write pin](/makecode-blockeditor/reference/pins/digital-write-pin)

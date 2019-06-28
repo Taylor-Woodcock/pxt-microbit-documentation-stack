@@ -5,16 +5,18 @@ Find whether the sprite is touching another sprite you say.
 Sprites are touching if they share the same LED.
 
 ```sig
-game.createSprite(0, 2).isTouching(null);
+let item: game.LedSprite = null;
+item.isTouching(null);
 ```
 
 ## Parameters
 
-* another **sprite** that might be touching the one you are checking.
+* a **sprite** you are checking
+* another **sprite** that might be touching the one you are checking
 
 ## Returns
 
-* `true` if the two sprites are touching.
+`true` if the two sprites are touching.
 
 ## Example
 
@@ -34,6 +36,6 @@ if (matter.isTouching(antimatter)) {
 
 ## See also
 
-[create sprite](/reference/game/create-sprite),
-[is touching edge](/reference/game/is-touching-edge),
-[if on edge, bounce](/reference/game/if-on-edge-bounce)
+[create sprite](/makecode-blockeditor/reference/game/create-sprite),
+[is touching edge](/makecode-blockeditor/reference/game/is-touching-edge),
+[if on edge, bounce](/makecode-blockeditor/reference/game/if-on-edge-bounce)

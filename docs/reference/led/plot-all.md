@@ -8,5 +8,5 @@ led.plotAll()
 
 ## See also
 
-[LED screen](/device/screen), [clear screen](/reference/basic/clear-screen)
+[LED screen](/device/screen), [clear screen](/makecode-blockeditor/reference/basic/clear-screen)
 

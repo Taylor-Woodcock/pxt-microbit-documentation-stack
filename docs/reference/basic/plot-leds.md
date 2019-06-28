@@ -1,6 +1,6 @@
 # Plot LEDs
 
-Display an [Image](/reference/images/image) on the @boardname@'s [LED screen](/device/screen).
+Display an [Image](/makecode-blockeditor/reference/images/image) on the @boardname@'s [LED screen](/device/screen).
 
 ```sig
 basic.showLeds(`
@@ -30,5 +30,5 @@ basic.showLeds(`
 
 ## See also
 
-[show animation](/reference/basic/show-animation), [image](/reference/images/image), [show image](/reference/images/show-image), [scroll image](/reference/images/scroll-image)
+[show animation](/makecode-blockeditor/reference/basic/show-animation), [image](/makecode-blockeditor/reference/images/image), [show image](/makecode-blockeditor/reference/images/show-image), [scroll image](/makecode-blockeditor/reference/images/scroll-image)
 

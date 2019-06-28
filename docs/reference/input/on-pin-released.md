@@ -1,6 +1,6 @@
 # On Pin Released
 
-Start an [event handler](/reference/event-handler) (part of the
+Start an [event handler](/makecode-blockeditor/reference/event-handler) (part of the
 program that will run when something happens, like when a button is
 pressed).  This handler works when you release pin `0`, `1`, or `2`
 together with `GND`.  When you are using this function in a web
@@ -44,5 +44,5 @@ input.onPinReleased(TouchPin.P0, () => {
 
 ## See also
 
-[@boardname@ pins](/device/pins), [pin is pressed](/reference/input/pin-is-pressed), [analog read pin](/reference/pins/analog-read-pin), [analog write pin](/reference/pins/analog-write-pin), [digital read pin](/reference/pins/digital-read-pin), [digital write pin](/reference/pins/digital-write-pin)
+[@boardname@ pins](/device/pins), [pin is pressed](/makecode-blockeditor/reference/input/pin-is-pressed), [analog read pin](/makecode-blockeditor/reference/pins/analog-read-pin), [analog write pin](/makecode-blockeditor/reference/pins/analog-write-pin), [digital read pin](/makecode-blockeditor/reference/pins/digital-read-pin), [digital write pin](/makecode-blockeditor/reference/pins/digital-write-pin)
 

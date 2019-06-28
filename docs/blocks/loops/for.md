@@ -1,6 +1,14 @@
-# @extends
+# For
+ 
+Run part of the program the number of times you say.
 
-## #examples
+```block
+for(let i = 0; i <= 4; ++i) {
+    let j = i;
+}
+```
+
+##  #examples
 
 ## Example: Count to 4
 
@@ -13,3 +21,4 @@ input.onButtonPressed(Button.A, () => {
     }
 })
 ```
+

@@ -19,7 +19,7 @@ A bar graph is a kind of chart that shows numbers as lines with different length
 
 ## Example: chart acceleration
 
-Show a bar graph of the [acceleration](/reference/input/acceleration) 
+Show a bar graph of the [acceleration](/makecode-blockeditor/reference/input/acceleration) 
 in the `x` direction of the @boardname@.
 The @boardname@'s `x` direction is from left to right (or right to left).
 The faster you move the @boardname@ in this direction,
@@ -34,5 +34,5 @@ basic.forever(() => {
 
 ## See also
 
-[brightness](/reference/led/brightness), [fade in](/reference/led/fade-in), [fade out](/reference/led/fade-out), [LED screen](/device/screen), [stop animation](/reference/led/stop-animation)
+[brightness](/makecode-blockeditor/reference/led/brightness), [fade in](/makecode-blockeditor/reference/led/fade-in), [fade out](/makecode-blockeditor/reference/led/fade-out), [LED screen](/device/screen), [stop animation](/makecode-blockeditor/reference/led/stop-animation)
 

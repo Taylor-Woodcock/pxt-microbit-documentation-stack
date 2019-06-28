@@ -1,4 +1,4 @@
-# @extends
+# Extensions
 
 ## Extension Gallery #gallery
 
@@ -44,16 +44,8 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "url":"/pkg/ReRoKit/pxt-reromicro",
   "cardType": "package"
 }, {
-  "name": "PLEN bit",
-  "url":"/pkg/plenprojectcompany/pxt-PLENbit",
-  "cardType": "package"
-}, {
   "name": "UCL Junk Robot",
   "url":"/pkg/chevyng/pxt-ucl-junkrobot",
-  "cardType": "package"
-}, {
-  "name": "Elecfreaks Cutebot",
-  "url":"/pkg/elecfreaks/pxt-cutebot",
   "cardType": "package"
 }, {
   "name": "Kittenbot RobotBit",
@@ -68,10 +60,6 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "url":"/pkg/k8robotics/pxt-k8",
   "cardType": "package"
 }, {
-  "name": "Freenove Micro:Rover",
-  "url":"/pkg/Freenove/Makecode-Extension-Rover",
-  "cardType": "package"
-}, {
   "name": "Gigglebot",
   "url":"/pkg/dexterind/pxt-giggle",
   "cardType": "package"
@@ -80,7 +68,7 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "url":"/pkg/4tronix/Robobit",
   "cardType": "package"
 }, {
-  "name": "Pi Supply Bit:Buggy",
+  "name": "Pi Supply Bit Buggy",
   "url":"/pkg/PiSupply/pxt-bitbuggy",
   "cardType": "package"
 }, {
@@ -104,24 +92,12 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "url":"/pkg/1010Technologies/pxt-makerbit-motor",
   "cardType": "package"
 }, {
-  "name": "Tobbie II",
+  "name": "Prokit Tobbie II",
   "url":"/pkg/kaku111/pxt-tobbieII",
   "cardType": "package"
 }, {
   "name": "Kitronik ACCESS:bit",
   "url":"/pkg/KitronikLtd/pxt-kitronik-accessbit",
-  "cardType": "package"
-}, {
-  "name": "Kitronik Fischertechnik interface",
-  "url":"/pkg/KitronikLtd/pxt-kitronik-fischertechnik",
-  "cardType": "package"
-}, {
-  "name": "TCEA Nexus:bit",
-  "url":"/pkg/alankrantas/pxt-Nexusbit",
-  "cardType": "package"
-}, {
-  "name": "Kitronik Klip Motor",
-  "url":"/pkg/KitronikLtd/pxt-kitronik-klip-motor",
   "cardType": "package"
 }]
 ```
@@ -234,15 +210,6 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
     "name": "MakerBit",
     "url": "/pkg/1010Technologies/pxt-makerbit",
     "cardType": "package"
-}, {
-    "name": "MakerBit Pins",
-    "url": "/pkg/1010Technologies/pxt-makerbit-pins",
-    "cardType": "package"
-},
-{
-   "name": "Pi Supply tinker:kit",
-   "url": "/pkg/PiSupply/pxt-tinker-kit",
-   "cardType": "package"
 }]
 ```
 
@@ -250,10 +217,6 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
 
 ```codecard
 [{
- "name": "Let's Talk Science COZIR sensor",
-  "url":"/pkg/letstalkscience/pxt-cozir",
-  "cardType": "package"
-}, {
   "name": "MAX6675",
   "url":"/pkg/microsoft/pxt-max6675",
   "cardType": "package"
@@ -282,10 +245,6 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "url":"/pkg/Tinkertanker/pxt-rotary-encoder-ky040",
   "cardType": "package"
 }, {
-  "name": "Hitechnic IRSeeker",
-  "url":"/pkg/cgs-matthew-pham/pxt-hitechnic-irseeker-v2",
-  "cardType": "package"
-}, {
   "name": "GY521",
   "url":"/pkg/PaulDFoster/pxt-microbit-GY521",
   "cardType": "package"
@@ -298,10 +257,6 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
     "url":"/pkg/Imagimaker/pxt-imagimaker",
     "cardType": "package"
 }, {
-    "name": "DHT11 & DHT22 Temperature and Humidity",
-    "url":"/pkg/alankrantas/pxt-DHT11_DHT22",
-    "cardType": "package"
-}, {
     "name": "gator:light Light sensor",
     "url":"/pkg/sparkfun/pxt-gator-light",
     "cardType": "package"
@@ -310,42 +265,17 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
     "url":"/pkg/sparkfun/pxt-gator-temp",
     "cardType": "package"
 }, {
-    "name": "MonkMakes Sensor",
-    "url":"/pkg/monkmakes/pxt-sensor",
-    "cardType": "package"
-}, {
     "name": "ALS Robot Electromagnet",
     "url":"/pkg/alsrobot-microbit-makecode-packages/ALSRobotElectromagnet",
-    "cardType": "package"
-}, {
-    "name": "MakerBit Touch MPR121",
-    "url": "/pkg/1010Technologies/pxt-makerbit-touch",
-    "cardType": "package"
-}, {
-    "name": "Keyestudio Infrared Receiver",
-    "url": "/pkg/1010Technologies/pxt-makerbit-ir-receiver",
-    "cardType": "package"
-}, {
-    "name": "I2C LCD 1602 Display",
-    "url": "/pkg/1010Technologies/pxt-makerbit-ir-lcd1602",
     "cardType": "package"
 }]
 ```
 
 ## IoT
-
 ```codecard
 [{
   "name": "Pi Supply Lora Node",
   "url":"/pkg/PiSupply/pxt-iot-lora-node",
-  "cardType": "package"
-}, {
-  "name": "WiFi:Bit",
-  "url":"/pkg/e-radionicacom/pxt-wifi",
-  "cardType": "package"
-}, {
-  "name": "ESP8266 and ThingSpeak",
-  "url":"/pkg/alankrantas/pxt-ESP8266_ThingSpeak",
   "cardType": "package"
 }]
 ```
@@ -353,7 +283,7 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
 ## Other
 
 ```codecard
-[
+[ 
  {
   "name": "Code Dojo Olney",
   "url":"/pkg/CoderDojoOlney/pxt-olney",
@@ -430,13 +360,20 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "name": "MAX7219 8x8",
   "url":"/pkg/alankrantas/pxt-MAX7219_8x8",
   "cardType": "package"
-}, {
-    "name": "Catalex Serial MP3 Player v1.0",
-    "url": "/pkg/1010Technologies/pxt-makerbit-mp3",
-    "cardType": "package"
-}, {
-    "name": "Keigan Motor",
-    "url": "/pkg/keigan-motor/pxt-KeiganMotor",
-    "cardType": "package"
 }]
 ```
+
+## Using Extensions
+
+In the web editor, click on ``Settings`` then ``Extensions`` to search and add extensions to the project.
+The Blocks and JavaScript definitions will be automatically loaded in the editor.
+
+## Custom extensions
+
+The [Build Your Own Extension](/extensions/build-your-own) manual is for advanced users who want to publish their own extension. 
+
+## ~ hint
+
+**Extensions** were previously called **Packages** in MakeCode.
+
+## ~

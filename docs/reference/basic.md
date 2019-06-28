@@ -23,8 +23,8 @@ basic.showArrow(ArrowNames.North);
 
 ## See also
 
-[showNumber](/reference/basic/show-number), 
-[showIcon](/reference/basic/show-icon),
-[showLeds](/reference/basic/show-leds), [showString](/reference/basic/show-string), 
-[clearScreen](/reference/basic/clear-screen), [forever](/reference/basic/forever), [pause](/reference/basic/pause), 
-[showArrow](/reference/basic/show-arrow), [showAnimation](/reference/basic/show-animation)
+[showNumber](/makecode-blockeditor/reference/basic/show-number), 
+[showIcon](/makecode-blockeditor/reference/basic/show-icon),
+[showLeds](/makecode-blockeditor/reference/basic/show-leds), [showString](/makecode-blockeditor/reference/basic/show-string), 
+[clearScreen](/makecode-blockeditor/reference/basic/clear-screen), [forever](/makecode-blockeditor/reference/basic/forever), [pause](/makecode-blockeditor/reference/basic/pause), 
+[showArrow](/makecode-blockeditor/reference/basic/show-arrow), [showAnimation](/makecode-blockeditor/reference/basic/show-animation)

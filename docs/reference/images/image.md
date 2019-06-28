@@ -24,7 +24,7 @@ basic.showLeds(`
 
 ## Creating an image
 
-To create an image that you can later modify, see the [create image](/reference/images/create-image) function.
+To create an image that you can later modify, see the [create image](/makecode-blockeditor/reference/images/create-image) function.
 
 1. Click the **Images** category on the left.
 
@@ -36,18 +36,18 @@ To create an image that you can later modify, see the [create image](/reference/
 
 You should see code similar to this:
 
-![](/static/mb/blocks/image-0.png)
+![](/makecode-blockeditor/static/mb/blocks/image-0.png)
 
 ## Image functions
 
-* [create image](/reference/images/create-image): create an image from a series of on/off LED states
-* [clear](/reference/basic/clear-screen): turn off all the pixels in an image
-* [pixel](/reference/images/pixel): get the state of a pixel in an image
-* [show-leds](/reference/basic/show-leds): show a single-frame image on the LED screen
-* [show image](/reference/images/show-image): show an image on the screen
-* [scroll image](/reference/images/scroll-image): scroll an image on the screen
+* [create image](/makecode-blockeditor/reference/images/create-image): create an image from a series of on/off LED states
+* [clear](/makecode-blockeditor/reference/basic/clear-screen): turn off all the pixels in an image
+* [pixel](/makecode-blockeditor/reference/images/pixel): get the state of a pixel in an image
+* [show-leds](/makecode-blockeditor/reference/basic/show-leds): show a single-frame image on the LED screen
+* [show image](/makecode-blockeditor/reference/images/show-image): show an image on the screen
+* [scroll image](/makecode-blockeditor/reference/images/scroll-image): scroll an image on the screen
 
 ## See also
 
-[Show LEDs](/reference/basic/show-leds), [create image](/reference/images/create-image), [show image](/reference/images/show-image), [LED screen](/device/screen)
+[Show LEDs](/makecode-blockeditor/reference/basic/show-leds), [create image](/makecode-blockeditor/reference/images/create-image), [show image](/makecode-blockeditor/reference/images/show-image), [LED screen](/device/screen)
 

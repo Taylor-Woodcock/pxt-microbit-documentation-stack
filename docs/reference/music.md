@@ -17,8 +17,8 @@ music.setTempo(120);
 
 ## See Also
 
-[playTone](/reference/music/play-tone), [ringTone](/reference/music/ring-tone), [rest](/reference/music/rest),
-[beginMelody](/reference/music/begin-melody), 
-[stopMelody](/reference/music/stop-melody),
-[onEvent](/reference/music/on-event),
-[beat](/reference/music/beat), [tempo](/reference/music/tempo), [changeTempoBy](/reference/music/change-tempo-by), [setTempo](/reference/music/set-tempo),
+[playTone](/makecode-blockeditor/reference/music/play-tone), [ringTone](/makecode-blockeditor/reference/music/ring-tone), [rest](/makecode-blockeditor/reference/music/rest),
+[beginMelody](/makecode-blockeditor/reference/music/begin-melody), 
+[stopMelody](/makecode-blockeditor/reference/music/stop-melody),
+[onEvent](/makecode-blockeditor/reference/music/on-event),
+[beat](/makecode-blockeditor/reference/music/beat), [tempo](/makecode-blockeditor/reference/music/tempo), [changeTempoBy](/makecode-blockeditor/reference/music/change-tempo-by), [setTempo](/makecode-blockeditor/reference/music/set-tempo),

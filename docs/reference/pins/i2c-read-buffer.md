@@ -42,6 +42,6 @@ let i2cBuffer = pins.i2cReadBuffer(i2cDevice, 32, false);
 
 ## See also
 
-[i2c write buffer](/reference/pins/i2c-write-buffer), [buffer](/types/buffer)
+[i2c write buffer](/makecode-blockeditor/reference/pins/i2c-write-buffer), [buffer](/types/buffer)
 
 [What's I2C?](http://www.i2c-bus.org/)

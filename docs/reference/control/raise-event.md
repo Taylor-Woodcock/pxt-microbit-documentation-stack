@@ -11,4 +11,4 @@ control.raiseEvent(control.eventSourceId(EventBusSource.MICROBIT_ID_BUTTON_A), c
 
 ## See Also
 
-[radio raise event](/reference/radio/raise-event)
+[radio raise event](/makecode-blockeditor/reference/radio/raise-event)

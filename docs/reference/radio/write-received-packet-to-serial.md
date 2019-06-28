@@ -7,15 +7,15 @@ radio.writeReceivedPacketToSerial();
 ```
 
 This should be called within a callback to
-[on data packet received](/reference/radio/on-data-packet-received).
+[on data packet received](/makecode-blockeditor/reference/radio/on-data-packet-received).
 
 ## Data received format
 
 The format for received data when these send functions are used:
 
-- [send number](/reference/radio/send-number): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber}```
-- [send value](/reference/radio/send-value): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber,n:"Name"}```
-- [send string](/reference/radio/send-string): ```{t:MicrobitTimeAlive,s:SerialNumber,n:"Text"}```
+- [send number](/makecode-blockeditor/reference/radio/send-number): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber}```
+- [send value](/makecode-blockeditor/reference/radio/send-value): ```{v:ValueSent,t:MicrobitTimeAlive,s:SerialNumber,n:"Name"}```
+- [send string](/makecode-blockeditor/reference/radio/send-string): ```{t:MicrobitTimeAlive,s:SerialNumber,n:"Text"}```
 
 ### ~hint
 
@@ -51,11 +51,11 @@ Sample output to serial when ``A`` button pressed:
 
 ## See also
 
-[send number](/reference/radio/send-number),
-[send value](/reference/radio/send-value),
-[send string](/reference/radio/send-string),
-[on data packet received](/reference/radio/on-data-packet-received),
-[set transmit serial number](/reference/radio/set-transmit-serial-number)
+[send number](/makecode-blockeditor/reference/radio/send-number),
+[send value](/makecode-blockeditor/reference/radio/send-value),
+[send string](/makecode-blockeditor/reference/radio/send-string),
+[on data packet received](/makecode-blockeditor/reference/radio/on-data-packet-received),
+[set transmit serial number](/makecode-blockeditor/reference/radio/set-transmit-serial-number)
 
 ```package
 radio

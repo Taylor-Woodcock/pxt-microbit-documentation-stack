@@ -38,7 +38,7 @@ Your computer should recognise your micro:bit as a new drive. On computers
 running Windows, `MICROBIT` appears as a drive under Devices and drives. On a Mac
 it appears as a new drive under Devices.
 
-![](/static/mb/device/usb-windows-device.jpg)
+![](/makecode-blockeditor/static/mb/device/usb-windows-device.jpg)
 
 ## Step 2 (optional): Configure Chrome to ask where to save the file
 
@@ -66,13 +66,13 @@ If the file was saved onto your computer, you will need to transfer it to the mi
 Your `.hex` file (created in Step 3 above) appears as a download at the bottom of the browser.
 Click on the arrow next to the name of the file and then click **Show in folder**.
 
-![](/static/mb/device/usb-windows-chrome.png)
+![](/makecode-blockeditor/static/mb/device/usb-windows-chrome.png)
 
 In File Explorer, drag and drop the `.hex` file from the download folder onto the `MICROBIT` drive.
 
 Alternatively, right-click on the hex file, choose **Send to**, and then **MICROBIT**.
 
-![](/static/mb/device/usb-windows-sendto.jpg)
+![](/makecode-blockeditor/static/mb/device/usb-windows-sendto.jpg)
 
 ## Step 5: After transferring the file
 

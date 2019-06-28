@@ -29,4 +29,4 @@ This function is not supported in the simulator.
 
 ## See Also
 
-[pause](/reference/basic/pause)
+[pause](/makecode-blockeditor/reference/basic/pause)

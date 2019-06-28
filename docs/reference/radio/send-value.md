@@ -47,7 +47,7 @@ radio.onReceivedValue(function (name, value) {
 
 ## See also
 
-[on received value](/reference/radio/on-received-value)
+[on received value](/makecode-blockeditor/reference/radio/on-received-value)
 
 ```package
 radio

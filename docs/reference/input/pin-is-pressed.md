@@ -47,5 +47,5 @@ basic.forever(() => {
 
 ## See also
 
-[@boardname@ pins](/device/pins), [on pin pressed](/reference/input/on-pin-pressed), [analog read pin](/reference/pins/analog-read-pin), [analog write pin](/reference/pins/analog-write-pin), [digital read pin](/reference/pins/digital-read-pin), [digital write pin](/reference/pins/digital-write-pin)
+[@boardname@ pins](/device/pins), [on pin pressed](/makecode-blockeditor/reference/input/on-pin-pressed), [analog read pin](/makecode-blockeditor/reference/pins/analog-read-pin), [analog write pin](/makecode-blockeditor/reference/pins/analog-write-pin), [digital read pin](/makecode-blockeditor/reference/pins/digital-read-pin), [digital write pin](/makecode-blockeditor/reference/pins/digital-write-pin)
 

@@ -6,7 +6,7 @@ Get the duration of the last pulse in microseconds.
 pins.pulseDuration();
 ```
 
-A pin pulse is detected in the [onPulsed](/reference/pins/on-pulsed) event. You use **pulseDuration** inside that event to get the duration of the pulse that triggered the event.
+A pin pulse is detected in the [onPulsed](/makecode-blockeditor/reference/pins/on-pulsed) event. You use **pulseDuration** inside that event to get the duration of the pulse that triggered the event.
 
 ### ~ hint
 
@@ -30,6 +30,6 @@ pins.onPulsed(DigitalPin.P0, PulseValue.High, () => {
 
 ## See also
 
-[servo set pulse](/reference/pins/servo-set-pulse),
-[on pulsed](/reference/pins/on-pulsed),
-[digital read pin](/reference/pins/digital-read-pin)
+[servo set pulse](/makecode-blockeditor/reference/pins/servo-set-pulse),
+[on pulsed](/makecode-blockeditor/reference/pins/on-pulsed),
+[digital read pin](/makecode-blockeditor/reference/pins/digital-read-pin)

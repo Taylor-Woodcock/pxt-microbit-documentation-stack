@@ -26,5 +26,5 @@ for (let i = 0; i < 5; i++) {
 
 ## See also
 
-[brightness](/reference/led/brightness), [fade out](/reference/led/fade-out), [set brightness](/reference/led/set-brightness)
+[brightness](/makecode-blockeditor/reference/led/brightness), [fade out](/makecode-blockeditor/reference/led/fade-out), [set brightness](/makecode-blockeditor/reference/led/set-brightness)
 

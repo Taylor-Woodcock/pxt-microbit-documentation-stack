@@ -26,4 +26,4 @@ basic.forever(() => {
 
 ## See also
 
-[panic](/reference/control/panic)
+[panic](/makecode-blockeditor/reference/control/panic)

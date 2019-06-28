@@ -11,7 +11,7 @@ Your @boardname@ may encounter a situation that prevents it from running your co
 * **43** (`MICROBIT_NO_RADIO`): the @boardname@ can't enable the radio.
 * **50** (`MICROBIT_HARDWARE_UNAVAILABLE_ACC`): an error occurred with the micro:bit's accelerometer component.
 * **51** (`MICROBIT_HARDWARE_UNAVAILABLE_MAG`): an error occurred with the micro:bit's magnetometer component.
-* **98** (`MICROBIT_ASSERTION_FAILED`): assertion failed, the condition in an [assert](/reference/control/assert) was false.
+* **98** (`MICROBIT_ASSERTION_FAILED`): assertion failed, the condition in an [assert](/makecode-blockeditor/reference/control/assert) was false.
 
 ```sim
 basic.showLeds(`
@@ -25,4 +25,4 @@ basic.showLeds(`
 
 ## See also
 
-[panic](/reference/control/panic), [assert](/reference/control/assert),
+[panic](/makecode-blockeditor/reference/control/panic), [assert](/makecode-blockeditor/reference/control/assert),

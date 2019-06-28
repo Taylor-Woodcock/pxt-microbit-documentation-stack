@@ -36,8 +36,8 @@ pins.spiFormat(8, 3);
 
 ## See also
 
-[spi write](/reference/pins/spi-write),
-[spi pins](/reference/pins/spi-pins),
-[spi frequency](/reference/pins/spi-frequency)
+[spi write](/makecode-blockeditor/reference/pins/spi-write),
+[spi pins](/makecode-blockeditor/reference/pins/spi-pins),
+[spi frequency](/makecode-blockeditor/reference/pins/spi-frequency)
 
 [SPI Programming](https://developer.mbed.org/handbook/SPI)

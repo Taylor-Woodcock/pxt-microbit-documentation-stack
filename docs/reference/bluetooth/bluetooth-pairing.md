@@ -1,6 +1,6 @@
 # Bluetooth Pairing 
 
-![](/static/bluetooth/Bluetooth_SIG.png)
+![](/makecode-blockeditor/static/bluetooth/Bluetooth_SIG.png)
 
 For another device like a smartphone to use any of the Bluetooth "services" which the @boardname@ has, it must first be paired with the @boardname@. Once paired, the other device may connect to the @boardname@ and exchange data relating to many of the @boardname@'s features.
 
@@ -18,4 +18,4 @@ If you need additional help in pairing your @boardname@ to another device, see t
 
 ## See also
 
-[About Bluetooth](/reference/bluetooth/about-bluetooth)
+[About Bluetooth](/makecode-blockeditor/reference/bluetooth/about-bluetooth)

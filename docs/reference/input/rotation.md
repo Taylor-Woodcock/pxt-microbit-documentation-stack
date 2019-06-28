@@ -56,5 +56,5 @@ basic.forever(() => {
 
 ## See also
 
-[acceleration](/reference/input/acceleration), [compass-heading](/reference/input/compass-heading)
+[acceleration](/makecode-blockeditor/reference/input/acceleration), [compass-heading](/makecode-blockeditor/reference/input/compass-heading)
 

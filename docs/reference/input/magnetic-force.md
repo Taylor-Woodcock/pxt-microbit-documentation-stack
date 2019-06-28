@@ -39,4 +39,4 @@ basic.forever(() => {
 
 ## See also
 
-[compass heading](/reference/input/compass-heading)
+[compass heading](/makecode-blockeditor/reference/input/compass-heading)

@@ -59,6 +59,6 @@ basic.showAnimation(`
 
 ## ~hint 
 
-Use [forever](/reference/basic/forever) to show an animation over and over.
+Use [forever](/makecode-blockeditor/reference/basic/forever) to show an animation over and over.
 
 ## ~

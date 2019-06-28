@@ -23,10 +23,10 @@ pins.servoSetPulse(AnalogPin.P0, 1000)
 ## See also
 
 [@boardname@ pins](/device/pins),
-[on pin pressed](/reference/input/on-pin-pressed),
-[analog read pin](/reference/pins/analog-read-pin),
-[digital read pin](/reference/pins/digital-read-pin),
-[digital write pin](/reference/pins/digital-write-pin)
+[on pin pressed](/makecode-blockeditor/reference/input/on-pin-pressed),
+[analog read pin](/makecode-blockeditor/reference/pins/analog-read-pin),
+[digital read pin](/makecode-blockeditor/reference/pins/digital-read-pin),
+[digital write pin](/makecode-blockeditor/reference/pins/digital-write-pin)
 
 [Brief Guide to Servos](https://www.kitronik.co.uk/pdf/a-brief-guide-to-servos.pdf)
 

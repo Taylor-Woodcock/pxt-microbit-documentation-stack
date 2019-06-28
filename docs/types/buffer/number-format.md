@@ -53,7 +53,7 @@ If the big end of the number is stored in memory first, before the little end, t
 
 ### Number format types
 
-Sometimes you need to have your program tell what type of numbers it will store in memory. This often necessary when you use [pin](/reference/pins) operations with a [buffer](/types/buffer).
+Sometimes you need to have your program tell what type of numbers it will store in memory. This often necessary when you use [pin](/makecode-blockeditor/reference/pins) operations with a [buffer](/types/buffer).
 
 The formats for numbers stored on the @boardname@ are:
 

@@ -36,7 +36,7 @@ input.onButtonPressed(Button.A, () => {
 
 This example broadcasts the level of the light around it.
 You can do some interesting things with it if you use it along with the
-[on received number](/reference/radio/on-received-number) example.
+[on received number](/makecode-blockeditor/reference/radio/on-received-number) example.
 
 ```blocks
 radio.setGroup(99)
@@ -48,7 +48,7 @@ basic.forever(() => {
 
 ## See also
 
-[on received number](/reference/radio/on-received-number)
+[on received number](/makecode-blockeditor/reference/radio/on-received-number)
 
 ```package
 radio

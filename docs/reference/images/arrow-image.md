@@ -1,6 +1,6 @@
 # arrow Image
 
-Create an arrow shaped [image](/reference/images/image) for the [LED screen](/device/screen).
+Create an arrow shaped [image](/makecode-blockeditor/reference/images/image) for the [LED screen](/device/screen).
 
 ```sig
 images.arrowImage(ArrowNames.North)
@@ -10,7 +10,7 @@ The arrow points in the direction of the arrow name you choose, like `North`.
 
 ## Parameters
 
-* **i**: the arrow name to make an arrow [image](/reference/images/image) for. You can make an arrow image that points in one of these directions:
+* **i**: the arrow name to make an arrow [image](/makecode-blockeditor/reference/images/image) for. You can make an arrow image that points in one of these directions:
 
 >* `North`
 >* `NorthEast`
@@ -38,4 +38,4 @@ input.onButtonPressed(Button.B, () => {
 ```
 ## See also
 
-[arrow number](/reference/images/arrow-number)
+[arrow number](/makecode-blockeditor/reference/images/arrow-number)

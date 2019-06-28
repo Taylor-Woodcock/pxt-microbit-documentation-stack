@@ -30,4 +30,4 @@ let arrowSouthNumber = images.arrowNumber(ArrowNames.South)
 ```
 ## See also
 
-[arrow image](/reference/images/arrow-image)
+[arrow image](/makecode-blockeditor/reference/images/arrow-image)

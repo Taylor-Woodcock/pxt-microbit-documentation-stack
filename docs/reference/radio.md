@@ -28,15 +28,15 @@ radio
 
 ## See Also
 
-[send number](/reference/radio/send-number),
-[send value](/reference/radio/send-value),
-[send string](/reference/radio/send-string),
-[on received number](/reference/radio/on-received-number),
-[on received value](/reference/radio/on-received-value),
-[on received string](/reference/radio/on-received-string),
-[received packet](/reference/radio/received-packet),
-[set group](/reference/radio/set-group),
-[set transmit power](/reference/radio/set-transmit-power),
-[set transmit serial number](/reference/radio/set-transmit-serial-number),
-[write received packet to serial](/reference/radio/write-received-packet-to-serial),
-[raise event](/reference/radio/raise-event)
+[send number](/makecode-blockeditor/reference/radio/send-number),
+[send value](/makecode-blockeditor/reference/radio/send-value),
+[send string](/makecode-blockeditor/reference/radio/send-string),
+[on received number](/makecode-blockeditor/reference/radio/on-received-number),
+[on received value](/makecode-blockeditor/reference/radio/on-received-value),
+[on received string](/makecode-blockeditor/reference/radio/on-received-string),
+[received packet](/makecode-blockeditor/reference/radio/received-packet),
+[set group](/makecode-blockeditor/reference/radio/set-group),
+[set transmit power](/makecode-blockeditor/reference/radio/set-transmit-power),
+[set transmit serial number](/makecode-blockeditor/reference/radio/set-transmit-serial-number),
+[write received packet to serial](/makecode-blockeditor/reference/radio/write-received-packet-to-serial),
+[raise event](/makecode-blockeditor/reference/radio/raise-event)

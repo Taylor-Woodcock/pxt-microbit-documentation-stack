@@ -12,11 +12,11 @@ led.plotBrightness(0, 0, 255)
 led.setBrightness(255);
 led.stopAnimation();
 led.plotBarGraph(0, 0);
-led.setDisplayMode(DisplayMode.BlackAndWhite);
+led.setDisplayMode(DisplayMode.BackAndWhite);
 led.enable(false)
 ```
 
 ## See Also
 
-[plot](/reference/led/plot), [unplot](/reference/led/unplot), [point](/reference/led/point), [brightness](/reference/led/brightness), [setBrightness](/reference/led/set-brightness), [stopAnimation](/reference/led/stop-animation), [plotBarGraph](/reference/led/plot-bar-graph), [toggle](/reference/led/toggle), [setDisplayMode](/reference/led/set-display-mode), [enabled](/reference/led/enable),
-[plotBrightness](/reference/led/plot-brightness),
+[plot](/makecode-blockeditor/reference/led/plot), [unplot](/makecode-blockeditor/reference/led/unplot), [point](/makecode-blockeditor/reference/led/point), [brightness](/makecode-blockeditor/reference/led/brightness), [setBrightness](/makecode-blockeditor/reference/led/set-brightness), [stopAnimation](/makecode-blockeditor/reference/led/stop-animation), [plotBarGraph](/makecode-blockeditor/reference/led/plot-bar-graph), [toggle](/makecode-blockeditor/reference/led/toggle), [setDisplayMode](/makecode-blockeditor/reference/led/set-display-mode), [enabled](/makecode-blockeditor/reference/led/enable),
+[plotBrightness](/makecode-blockeditor/reference/led/plot-brightness),

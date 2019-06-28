@@ -1,6 +1,6 @@
 # Serial
 
-The [serial](/reference/serial) supports [serial communication](https://en.wikipedia.org/wiki/Serial_port) between the BBC micro:bit and another computer. Basically, this allows you to send data from the micro:bit to your own computer. This is very useful for debugging purposes: you can add `write line` statements in your code and see them display on your computer as the program executes.
+The [serial](/makecode-blockeditor/reference/serial) supports [serial communication](https://en.wikipedia.org/wiki/Serial_port) between the BBC micro:bit and another computer. Basically, this allows you to send data from the micro:bit to your own computer. This is very useful for debugging purposes: you can add `write line` statements in your code and see them display on your computer as the program executes.
 
 The code below shows a simple script that sends a line when the BBC micro:bit starts and another line each time the button ``A`` is pressed.
 
@@ -54,11 +54,11 @@ If you prefer another terminal emulator (such as [PuTTY](http://www.putty.org/))
 * Open Windows's [Device Manager](https://windows.microsoft.com/en-us/windows/open-device-manager); expand the section called "Ports (COM & LPT)"; write down the com number for "mbed Serial Port" (e.g. COM14)
 * Open PuTTY; on the main screen, use the following settings: Serial / COM14 / 115200. Replace COM14 with the COM port number you wrote down previously. Feel free to type in a name and hit "Save" to remember this configuration.
 
-![](/static/mb/serial-library-0.png)
+![](/makecode-blockeditor/static/mb/serial-library-0.png)
 
 * (optional): in the "Terminal" section, check "implicit cr in every lf"
 
-![](/static/mb/serial-library-1.png)
+![](/makecode-blockeditor/static/mb/serial-library-1.png)
 
 ## Linux
 

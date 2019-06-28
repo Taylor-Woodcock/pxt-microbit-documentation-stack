@@ -17,14 +17,10 @@ game.createSprite(2, 2);
 
 `0` and `4` mean the edges of the screen, and `2` means in the middle.
 
-## Returns
-
-* a new **LedSprite** at the location you say.
-
 ## ~ hint
 
 Once the game engine is started, it will render the sprites to the screen and potentially override any kind of animation you are trying to show.
-Using [game pause](/reference/game/pause) and [game resume](/reference/game/resume) to disable and enable the game rendering loop.
+Using [game pause](/makecode-blockeditor/reference/game/pause) and [game resume](/makecode-blockeditor/reference/game/resume) to disable and enable the game rendering loop.
 
 ## ~
 
@@ -42,7 +38,7 @@ item.move(2);
 
 ## See also
 
-[move](/reference/game/move),
-[turn](/reference/game/turn),
-[is-touching](/reference/game/is-touching)
+[move](/makecode-blockeditor/reference/game/move),
+[turn](/makecode-blockeditor/reference/game/turn),
+[is-touching](/makecode-blockeditor/reference/game/is-touching)
 

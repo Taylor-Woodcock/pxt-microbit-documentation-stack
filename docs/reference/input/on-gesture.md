@@ -1,6 +1,6 @@
 # On Gesture
 
-Start an [event handler](/reference/event-handler) (part of the
+Start an [event handler](/makecode-blockeditor/reference/event-handler) (part of the
 program that will run when something happens) This handler works when
 you do a **gesture** (like shaking the @boardname@).
 
@@ -26,4 +26,4 @@ input.onGesture(Gesture.Shake,() => {
 
 ## See Also
 
-[is gesture](/reference/input/is-gesture)
+[is gesture](/makecode-blockeditor/reference/input/is-gesture)

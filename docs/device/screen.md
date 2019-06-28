@@ -47,7 +47,7 @@ In other words, to specify the LED in the 4th column 5th row, subtract 1 from ea
 
 ## Turn a LED on/off
 
-Use [plot](/reference/led/plot) and [unplot](/reference/led/unplot) to turn a LED on or off
+Use [plot](/makecode-blockeditor/reference/led/plot) and [unplot](/makecode-blockeditor/reference/led/unplot) to turn a LED on or off
 
 ```blocks
 led.plot(0,0);
@@ -60,7 +60,7 @@ led.unplot(1,1);
 
 ## Is a LED on/off?
 
-Use the [point](/reference/led/point) function to find out if a LED is on or off.
+Use the [point](/makecode-blockeditor/reference/led/point) function to find out if a LED is on or off.
 
 ```blocks
 if(led.point(0,0)) {
@@ -69,7 +69,7 @@ if(led.point(0,0)) {
 
 ## Display images, strings and numbers
 
-Instead of turning individual LEDs on or off, as above, you can display an [image](/reference/images/image) directly to the screen or show text and numbers on screen using the [show number](/reference/basic/show-number) and [show string](/reference/basic/show-string) functions.
+Instead of turning individual LEDs on or off, as above, you can display an [image](/makecode-blockeditor/reference/images/image) directly to the screen or show text and numbers on screen using the [show number](/makecode-blockeditor/reference/basic/show-number) and [show string](/makecode-blockeditor/reference/basic/show-string) functions.
 
 ## The display buffer
 
@@ -92,6 +92,6 @@ You will not see the LED at position `0,0` lit up because the `show string` func
 ## Pins: P3, P4, P6, P7, P9, P10
 
 These pins are coupled to the LED matrix display and also to the display's associated ambient light sensing mode.
-To disable the display driver feature (which will automatically disable the light sensing feature) use the function [led.enable](/reference/led/enable). 
+To disable the display driver feature (which will automatically disable the light sensing feature) use the function [led.enable](/makecode-blockeditor/reference/led/enable). 
 
 More information at http://tech.microbit.org/hardware/edgeconnector_ds/ .

@@ -1,10 +1,11 @@
 # If On Edge, Bounce
 
-Make a [sprite](/reference/game/create-sprite) on the edge of the
+Make a [sprite](/makecode-blockeditor/reference/game/create-sprite) on the edge of the
 [LED screen](/device/screen) bounce away.
 
 ```sig
-game.createSprite(0, 2).ifOnEdgeBounce();
+let item = game.createSprite(0, 2);
+item.ifOnEdgeBounce();
 ```
 
 ## Parameters
@@ -28,6 +29,6 @@ input.onButtonPressed(Button.B, () => {
 
 ## See also
 
-[create sprite](/reference/game/create-sprite),
-[is touching](/reference/game/is-touching),
-[is touching edge](/reference/game/is-touching-edge)
+[create sprite](/makecode-blockeditor/reference/game/create-sprite),
+[is touching](/makecode-blockeditor/reference/game/is-touching),
+[is touching edge](/makecode-blockeditor/reference/game/is-touching-edge)

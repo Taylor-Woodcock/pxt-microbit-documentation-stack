@@ -1,6 +1,6 @@
 # Scroll Image
 
-Scroll (slide) an [image](/reference/images/image) (picture) from one
+Scroll (slide) an [image](/makecode-blockeditor/reference/images/image) (picture) from one
 side to the other of the [LED screen](/device/screen).
 
 ```sig
@@ -46,5 +46,5 @@ basic.forever(() => {
 
 ## See also
 
-[show image](/reference/images/show-image), [image](/reference/images/image), [create image](/reference/images/create-image), [show animation](/reference/basic/show-animation)
+[show image](/makecode-blockeditor/reference/images/show-image), [image](/makecode-blockeditor/reference/images/image), [create image](/makecode-blockeditor/reference/images/create-image), [show animation](/makecode-blockeditor/reference/basic/show-animation)
 

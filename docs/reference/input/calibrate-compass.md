@@ -26,4 +26,4 @@ input.onButtonPressed(Button.AB, () => {
 
 ## See also
 
-[compassHeading](/reference/input/compass-heading)
+[compassHeading](/makecode-blockeditor/reference/input/compass-heading)

@@ -23,5 +23,5 @@ basic.forever(() => {
 ## See also
 
 [serial](/device/serial),
-[serial write line](/reference/serial/write-line),
-[serial write value](/reference/serial/write-value)
+[serial write line](/makecode-blockeditor/reference/serial/write-line),
+[serial write value](/makecode-blockeditor/reference/serial/write-value)

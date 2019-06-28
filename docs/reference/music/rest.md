@@ -28,5 +28,5 @@ music.rest(1000)
 
 ## See also
 
-[play tone](/reference/music/play-tone), [ring tone](/reference/music/ring-tone) , [tempo](/reference/music/tempo), [set tempo](/reference/music/set-tempo), [change tempo by](/reference/music/change-tempo-by)
+[play tone](/makecode-blockeditor/reference/music/play-tone), [ring tone](/makecode-blockeditor/reference/music/ring-tone) , [tempo](/makecode-blockeditor/reference/music/tempo), [set tempo](/makecode-blockeditor/reference/music/set-tempo), [change tempo by](/makecode-blockeditor/reference/music/change-tempo-by)
 

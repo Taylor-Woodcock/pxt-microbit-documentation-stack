@@ -35,4 +35,4 @@ input.onButtonPressed(Button.B, () => {
 
 ## See also
 
-[clear screen](/reference/basic/clear-screen), [game over](/reference/game/game-over)
+[clear screen](/makecode-blockeditor/reference/basic/clear-screen), [game over](/makecode-blockeditor/reference/game/game-over)

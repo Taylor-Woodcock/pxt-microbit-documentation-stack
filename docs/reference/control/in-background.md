@@ -25,7 +25,7 @@ changes what is stored there.
 let num = 0
 control.inBackground(() => {
     while (true) {
-        basic.showNumber(num)
+        basic.showNumber(num, 150)
         basic.pause(100)
     }
 })
@@ -40,7 +40,7 @@ with a ``forever`` loop.
 ```blocks
 let num = 0
 basic.forever(() => {
-    basic.showNumber(num)
+    basic.showNumber(num, 150)
 })
 input.onButtonPressed(Button.A, () => {
     num++;
@@ -49,6 +49,6 @@ input.onButtonPressed(Button.A, () => {
 
 ## See also
 
-[while](/blocks/loops/while), [forever](/reference/basic/forever),
-[on button pressed](/reference/input/on-button-pressed)
+[while](/blocks/loops/while), [forever](/makecode-blockeditor/reference/basic/forever),
+[on button pressed](/makecode-blockeditor/reference/input/on-button-pressed)
 

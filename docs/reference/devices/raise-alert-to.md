@@ -58,7 +58,7 @@ devices.raiseAlertTo(MesAlertEvent.RingAlarm)
 
 ## See also
 
-[tell remote control to](/reference/devices/tell-remote-control-to), [tell camera to](/reference/devices/tell-camera-to)
+[tell remote control to](/makecode-blockeditor/reference/devices/tell-remote-control-to), [tell camera to](/makecode-blockeditor/reference/devices/tell-camera-to)
 
 ```package
 devices

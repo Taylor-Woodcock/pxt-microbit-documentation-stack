@@ -25,5 +25,5 @@ game.startCountdown(10000)
 
 ## See Also
 
-[score](/reference/game/score), [add score](/reference/game/add-score)
+[score](/makecode-blockeditor/reference/game/score), [add score](/makecode-blockeditor/reference/game/add-score)
 

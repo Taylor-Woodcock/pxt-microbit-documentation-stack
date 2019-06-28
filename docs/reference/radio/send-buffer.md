@@ -52,7 +52,7 @@ A radio that can both transmit and receive is called a _transceiver_.
 
 ## See also
 
-[on received buffer](/reference/radio/on-received-buffer)
+[on received buffer](/makecode-blockeditor/reference/radio/on-received-buffer)
 
 ```package
 radio

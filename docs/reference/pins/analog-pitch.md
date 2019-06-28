@@ -1,7 +1,7 @@
 # Analog Pitch
 
 Emits a Pulse With Modulation (PWM) signal to the pin ``P0``.
-Use [analog set pitch pin](/reference/pins/analog-set-pitch-pin) to set the current pitch pin.
+Use [analog set pitch pin](/makecode-blockeditor/reference/pins/analog-set-pitch-pin) to set the current pitch pin.
 
 ```sig
 pins.analogPitch(440, 300)
@@ -29,5 +29,5 @@ pins.analogPitch(frequency1, duration)
 
 ## See also
 
-[@boardname@ pins](/device/pins), [analog set period](/reference/pins/analog-set-period), [analog set pitch pin](/reference/pins/analog-set-pitch-pin)
+[@boardname@ pins](/device/pins), [analog set period](/makecode-blockeditor/reference/pins/analog-set-period), [analog set pitch pin](/makecode-blockeditor/reference/pins/analog-set-pitch-pin)
 

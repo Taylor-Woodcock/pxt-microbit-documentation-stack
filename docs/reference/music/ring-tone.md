@@ -36,7 +36,7 @@ basic.forever(() => {
 
 ## Using other pins
 
-Use [analogSetPitchPin](/reference/pins/analog-set-pitch-pin) to change that pin used to generate music.
+Use [analogSetPitchPin](/makecode-blockeditor/reference/pins/analog-set-pitch-pin) to change that pin used to generate music.
 
 ```blocks
 pins.analogSetPitchPin(AnalogPin.P1);
@@ -44,6 +44,6 @@ pins.analogSetPitchPin(AnalogPin.P1);
 
 ## See also
 
-[rest](/reference/music/rest), [play tone](/reference/music/play-tone),
-[tempo](/reference/music/tempo), [set tempo](/reference/music/set-tempo),
-[change tempo by](/reference/music/change-tempo-by)
+[rest](/makecode-blockeditor/reference/music/rest), [play tone](/makecode-blockeditor/reference/music/play-tone),
+[tempo](/makecode-blockeditor/reference/music/tempo), [set tempo](/makecode-blockeditor/reference/music/set-tempo),
+[change tempo by](/makecode-blockeditor/reference/music/change-tempo-by)

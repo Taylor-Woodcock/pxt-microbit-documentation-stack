@@ -25,4 +25,4 @@ forever(function() {
 
 ## See Also
 
-[on gesture](/reference/input/on-gesture)
+[on gesture](/makecode-blockeditor/reference/input/on-gesture)

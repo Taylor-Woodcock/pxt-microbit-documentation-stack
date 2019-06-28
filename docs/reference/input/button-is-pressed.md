@@ -39,5 +39,5 @@ https://www.youtube.com/watch?v=t_Qujjd_38o
 
 ## See also
 
-[on button pressed](/reference/input/on-button-pressed), [if](/blocks/logic/if), [forever](/reference/basic/forever)
+[on button pressed](/makecode-blockeditor/reference/input/on-button-pressed), [if](/blocks/logic/if), [forever](/makecode-blockeditor/reference/basic/forever)
 

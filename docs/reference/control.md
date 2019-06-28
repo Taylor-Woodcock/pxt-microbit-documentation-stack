@@ -16,4 +16,4 @@ control.eventValue();
 
 ## See Also
 
-[inBackground](/reference/control/in-background), [reset](/reference/control/reset), [waitMicros](/reference/control/wait-micros), [onEvent](/reference/control/on-event), [raiseEvent](/reference/control/raise-event), [eventTimestamp](/reference/control/event-timestamp), [eventValue](/reference/control/event-value)
+[inBackground](/makecode-blockeditor/reference/control/in-background), [reset](/makecode-blockeditor/reference/control/reset), [waitMicros](/makecode-blockeditor/reference/control/wait-micros), [onEvent](/makecode-blockeditor/reference/control/on-event), [raiseEvent](/makecode-blockeditor/reference/control/raise-event), [eventTimestamp](/makecode-blockeditor/reference/control/event-timestamp), [eventValue](/makecode-blockeditor/reference/control/event-value)

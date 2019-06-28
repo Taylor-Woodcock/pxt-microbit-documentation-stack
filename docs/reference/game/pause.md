@@ -8,4 +8,4 @@ game.pause()
 
 ### See Also
 
-[resume](/reference/game/resume)
+[resume](/makecode-blockeditor/reference/game/resume)

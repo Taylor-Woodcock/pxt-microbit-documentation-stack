@@ -8,7 +8,7 @@ led.unplot(0,0)
 
 ## ~hint
 
-Use [plot](/reference/led/plot) to turn **on** an LED.
+Use [plot](/makecode-blockeditor/reference/led/plot) to turn **on** an LED.
 
 ## ~
 
@@ -20,7 +20,7 @@ Use [plot](/reference/led/plot) to turn **on** an LED.
 * ``y`` is a [number](/types/number) that means the vertical
   spot on the LED screen (from top to bottom: 0, 1, 2, 3, or 4)
 
-If a parameter is [out of bounds](/reference/out-of-bounds) (a value
+If a parameter is [out of bounds](/makecode-blockeditor/reference/out-of-bounds) (a value
 other than 0 to 4), then this function will do nothing.
 
 ## ~hint
@@ -49,7 +49,7 @@ led.unplot(2, 2)
 
 ## ~hint
 
-Use the [point](/reference/led/point) function to find out if an LED is
+Use the [point](/makecode-blockeditor/reference/led/point) function to find out if an LED is
 on or off.
 
 ## ~
@@ -57,4 +57,4 @@ on or off.
 
 ## See also
 
-[plot](/reference/led/plot), [point](/reference/led/point), [LED screen](/device/screen)
+[plot](/makecode-blockeditor/reference/led/plot), [point](/makecode-blockeditor/reference/led/point), [LED screen](/device/screen)

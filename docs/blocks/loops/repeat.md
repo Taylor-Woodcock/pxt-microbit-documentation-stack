@@ -1,6 +1,13 @@
-# @extends
+# Repeat
 
-## #examples
+Run part of the program the number of times you say.
+
+```block
+for(let i = 0; i < 4; ++i) {
+}
+```
+
+##  #examples
 
 ## Example: Blinking heart
 
@@ -14,3 +21,4 @@ for (let i = 0; i < 4; i++) {
     basic.pause(300)
 }
 ```
+

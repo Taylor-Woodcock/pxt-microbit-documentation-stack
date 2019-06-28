@@ -55,5 +55,5 @@ To learn more about how the @boardname@ queues up and schedules event handlers, 
 
 ## see also
 
-[on button pressed](/reference/input/on-button-pressed), [on pin up](/reference/input/on-pin-pressed), [on shake](/reference/input/on-gesture)
+[on button pressed](/makecode-blockeditor/reference/input/on-button-pressed), [on pin up](/makecode-blockeditor/reference/input/on-pin-pressed), [on shake](/makecode-blockeditor/reference/input/on-gesture)
 

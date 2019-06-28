@@ -29,5 +29,5 @@ if (game.score() > 9999) {
 
 ## See also #seealso
 
-[set life](/reference/game/set-life),
-[remove life](/reference/game/remove-life)
+[set life](/makecode-blockeditor/reference/game/set-life),
+[remove life](/makecode-blockeditor/reference/game/remove-life)

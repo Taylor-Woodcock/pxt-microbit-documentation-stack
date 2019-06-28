@@ -29,4 +29,4 @@ to go.
 
 ## See Also
 
-[show animation](/reference/basic/show-animation)
+[show animation](/makecode-blockeditor/reference/basic/show-animation)

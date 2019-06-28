@@ -3,10 +3,15 @@
 Delete a sprite from the game.
 
 ```sig
-game.createSprite(0,0).delete()
+let item: game.LedSprite = null;
+item.delete();
 ```
 
-## Example
+### Parameters
+
+* the **sprite** you want to delete from the game
+
+### Example
 
 This program makes a sprite and shows the number of its brightness on the screen. Then, it deletes the sprite. 
 
@@ -16,6 +21,6 @@ basic.showNumber(ball.get(LedSpriteProperty.Brightness));
 ball.delete();
 ```
 
-## See also
+### See also
 
-[create sprite](/reference/game/create-sprite)
+[create sprite](/makecode-blockeditor/reference/game/create-sprite)

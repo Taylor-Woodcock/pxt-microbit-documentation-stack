@@ -1,6 +1,6 @@
 # Set Pixel
 
-Set the on/off state of pixel in an [Image](/reference/images/image).
+Set the on/off state of pixel in an [Image](/makecode-blockeditor/reference/images/image).
 
 ## JavaScript
 
@@ -11,8 +11,8 @@ item.setPixel(0, 0, true)
 
 ## Parameters
 
-* x - [Number](/types/number); the *x coordinate* or horizontal position of a pixel in an [image](/reference/images/image)
-* y - [Number](/types/number); the *y coordinate* or vertical position of a pixel in an [image](/reference/images/image)
+* x - [Number](/types/number); the *x coordinate* or horizontal position of a pixel in an [image](/makecode-blockeditor/reference/images/image)
+* y - [Number](/types/number); the *y coordinate* or vertical position of a pixel in an [image](/makecode-blockeditor/reference/images/image)
 * value -[Boolean](/blocks/logic/boolean); the on/off state of a pixel; `true` for on, `false` for off
 
 ## x, y coordinates?
@@ -36,4 +36,4 @@ img.showImage(0)
 ```
  ## See also
 
- [pixel](/reference/images/pixel), [show image](/reference/images/show-image), [image](/reference/images/image), [create image](/reference/images/create-image), [scroll image](/reference/images/scroll-image)
+ [pixel](/makecode-blockeditor/reference/images/pixel), [show image](/makecode-blockeditor/reference/images/show-image), [image](/makecode-blockeditor/reference/images/image), [create image](/makecode-blockeditor/reference/images/create-image), [scroll image](/makecode-blockeditor/reference/images/scroll-image)

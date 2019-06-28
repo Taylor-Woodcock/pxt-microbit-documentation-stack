@@ -12,11 +12,11 @@ The errors may look like this:
 
 **Windows**
 
-![](/static/mb/device/usb-windows-copy-file-error.jpg)
+![](/makecode-blockeditor/static/mb/device/usb-windows-copy-file-error.jpg)
 
 **Mac**
 
-![](/static/mb/device/usb-osx-copy-file-error.png)
+![](/makecode-blockeditor/static/mb/device/usb-osx-copy-file-error.png)
 
 Or it may appear that there are two hex files on your micro:bit so the micro:bit
 won’t be able to run multiple files. To rectify this, unplug your micro:bit and

@@ -10,7 +10,7 @@ The data contained in **receivedBuffer** is put there as a data [type](/types). 
 
 ## Parameters
 
-* **receivedBuffer**: The buffer that was sent in this packet or the empty string if this packet did not contain a string. See [send buffer](/reference/radio/send-buffer)
+* **receivedBuffer**: The buffer that was sent in this packet or the empty string if this packet did not contain a string. See [send buffer](/makecode-blockeditor/reference/radio/send-buffer)
 
 ## Example: Remote level
 
@@ -53,7 +53,7 @@ A radio that can both transmit and receive is called a _transceiver_.
 
 ## See also
 
-[send buffer](/reference/radio/send-buffer),
+[send buffer](/makecode-blockeditor/reference/radio/send-buffer),
 [number formats](/types/buffer/number-format)
 
 ```package

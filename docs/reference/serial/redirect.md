@@ -40,5 +40,5 @@ input.onButtonPressed(Button.A, () => {
 ## See also
 
 [serial](/device/serial),
-[redirectToUSB](/reference/serial/redirect-to-usb)
+[redirectToUSB](/makecode-blockeditor/reference/serial/redirect-to-usb)
 

@@ -20,10 +20,10 @@ radio.setTransmitSerialNumber(true);
 
 ## See also
 
-[received packet property](/reference/radio/received-packet),
-[send number](/reference/radio/send-number),
-[send value](/reference/radio/send-value),
-[send string](/reference/radio/send-string)
+[received packet property](/makecode-blockeditor/reference/radio/received-packet),
+[send number](/makecode-blockeditor/reference/radio/send-number),
+[send value](/makecode-blockeditor/reference/radio/send-value),
+[send string](/makecode-blockeditor/reference/radio/send-string)
 
 ```package
 radio

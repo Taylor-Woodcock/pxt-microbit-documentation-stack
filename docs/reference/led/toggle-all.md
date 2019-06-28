@@ -28,5 +28,5 @@ led.toggleAll()
 
 ## See also
 
-[toggle](/reference/led/toggle), [LED screen](/device/screen), [clear screen](/reference/basic/clear-screen)
+[toggle](/makecode-blockeditor/reference/led/toggle), [LED screen](/device/screen), [clear screen](/makecode-blockeditor/reference/basic/clear-screen)
 

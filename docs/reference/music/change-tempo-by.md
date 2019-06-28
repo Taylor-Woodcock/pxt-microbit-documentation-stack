@@ -1,6 +1,6 @@
 # Change Tempo By
 
-Makes the [tempo](/reference/music/tempo) (speed of a piece of music)
+Makes the [tempo](/makecode-blockeditor/reference/music/tempo) (speed of a piece of music)
 faster or slower by the amount you say.
 
 ```sig
@@ -35,5 +35,5 @@ music.changeTempoBy(-12)
 
 ## See also
 
-[play tone](/reference/music/play-tone), [ring tone](/reference/music/ring-tone) 
+[play tone](/makecode-blockeditor/reference/music/play-tone), [ring tone](/makecode-blockeditor/reference/music/ring-tone) 
 

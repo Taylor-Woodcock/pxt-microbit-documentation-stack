@@ -26,7 +26,7 @@ images.arrowNumber(ArrowNames.North)
 
 ## See Also
 
-[createImage](/reference/images/create-image), [createBigImage](/reference/images/create-big-image),
-[showImage](/reference/images/show-image), [scrollImage](/reference/images/scroll-image),
-[arrowImage](/reference/images/arrow-image), [iconImage](/reference/images/icon-image), [arrowNumber](/reference/images/arrow-number), 
-[pixel](/reference/images/pixel), [set-pixel](/reference/images/set-pixel)
+[createImage](/makecode-blockeditor/reference/images/create-image), [createBigImage](/makecode-blockeditor/reference/images/create-big-image),
+[showImage](/makecode-blockeditor/reference/images/show-image), [scrollImage](/makecode-blockeditor/reference/images/scroll-image),
+[arrowImage](/makecode-blockeditor/reference/images/arrow-image), [iconImage](/makecode-blockeditor/reference/images/icon-image), [arrowNumber](/makecode-blockeditor/reference/images/arrow-number), 
+[pixel](/makecode-blockeditor/reference/images/pixel), [set-pixel](/makecode-blockeditor/reference/images/set-pixel)

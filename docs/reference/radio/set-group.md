@@ -34,12 +34,12 @@ radio.setGroup(128)
 
 ## See also
 
-[on received number](/reference/radio/on-received-number),
-[on received string](/reference/radio/on-received-string),
-[on received value](/reference/radio/on-received-value),
-[send number](/reference/radio/send-number),
-[send value](/reference/radio/send-value),
-[send string](/reference/radio/send-string)
+[on received number](/makecode-blockeditor/reference/radio/on-received-number),
+[on received string](/makecode-blockeditor/reference/radio/on-received-string),
+[on received value](/makecode-blockeditor/reference/radio/on-received-value),
+[send number](/makecode-blockeditor/reference/radio/send-number),
+[send value](/makecode-blockeditor/reference/radio/send-value),
+[send string](/makecode-blockeditor/reference/radio/send-string)
 
 ```package
 radio

@@ -44,6 +44,6 @@ pins.servoWritePin(AnalogPin.P0, 0)
 
 ## See also
 
-[@boardname@ pins](/device/pins), [servo set pulse](/reference/pins/servo-set-pulse)
+[@boardname@ pins](/device/pins), [servo set pulse](/makecode-blockeditor/reference/pins/servo-set-pulse)
 
 [Brief Guide to Servos](https://www.kitronik.co.uk/pdf/a-brief-guide-to-servos.pdf)

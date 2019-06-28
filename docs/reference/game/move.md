@@ -3,12 +3,13 @@
 Move the sprite the number of LEDs you say.
 
 ```sig
-game.createSprite(0, 2).move(1);
+let item: game.LedSprite = null;
+item.move(1);
 ```
 
 ## Parameters
 
-* **leds**: a [number](/types/number) that means how many LEDs the sprite should move.
+* a [number](/types/number) that means how many LEDs the sprite should move
 
 ## Example
 
@@ -24,5 +25,5 @@ item.move(2);
 
 ## See also
 
-[turn](/reference/game/turn),
-[create sprite](/reference/game/create-sprite)
+[turn](/makecode-blockeditor/reference/game/turn),
+[create sprite](/makecode-blockeditor/reference/game/create-sprite)

@@ -47,6 +47,6 @@ pins.i2cWriteNumber(33, 87, NumberFormat.Int32BE, false);
 
 ## See also
 
-[i2c read number](/reference/pins/i2c-read-number)
+[i2c read number](/makecode-blockeditor/reference/pins/i2c-read-number)
 
 [What's I2C?](http://www.i2c-bus.org/), [number format](/types/buffer/number-format)

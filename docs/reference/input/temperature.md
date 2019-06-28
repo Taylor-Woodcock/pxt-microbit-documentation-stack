@@ -59,5 +59,5 @@ better thermometer.
 
 ## See also
 
-[compass-heading](/reference/input/compass-heading), [acceleration](/reference/input/acceleration)
+[compass-heading](/makecode-blockeditor/reference/input/compass-heading), [acceleration](/makecode-blockeditor/reference/input/acceleration)
 

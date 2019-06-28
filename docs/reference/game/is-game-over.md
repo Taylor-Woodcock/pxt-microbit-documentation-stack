@@ -21,5 +21,5 @@ if (game.isGameOver() && game.score() < 10) {
 
 ## See also
 
-[is running](/reference/game/is-running),
-[is paused](/reference/game/is-paused)
+[is running](/makecode-blockeditor/reference/game/is-running),
+[is paused](/makecode-blockeditor/reference/game/is-paused)

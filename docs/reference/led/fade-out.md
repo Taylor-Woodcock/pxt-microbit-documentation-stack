@@ -22,5 +22,5 @@ led.fadeOut(1000)
 
 ## See also
 
-[brightness](/reference/led/brightness), [fade in](/reference/led/fade-in), [set brightness](/reference/led/set-brightness)
+[brightness](/makecode-blockeditor/reference/led/brightness), [fade in](/makecode-blockeditor/reference/led/fade-in), [set brightness](/makecode-blockeditor/reference/led/set-brightness)
 

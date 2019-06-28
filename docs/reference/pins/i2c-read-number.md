@@ -55,6 +55,6 @@ nums[2] = pins.i2cReadNumber(33, NumberFormat.UInt8LE, false)
 
 ## See also
 
-[i2c write number](/reference/pins/i2c-write-number)
+[i2c write number](/makecode-blockeditor/reference/pins/i2c-write-number)
 
 [What's I2C?](http://www.i2c-bus.org/), [number format](/types/buffer/number-format)

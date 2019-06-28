@@ -2,7 +2,7 @@
 
 The width function.
 
-Get the width of an [Image](/reference/images/image) in columns.
+Get the width of an [Image](/makecode-blockeditor/reference/images/image) in columns.
 
 ```sig
 images.createImage().width();
@@ -52,5 +52,5 @@ for (let i = 0; i < img2.width() / 5; i++) {
 
 ## See also
 
-[show image](/reference/images/show-image), [image](/reference/images/image), [create image](/reference/images/create-image), [scroll image](/reference/images/scroll-image), [show animation](/reference/basic/show-animation)
+[show image](/makecode-blockeditor/reference/images/show-image), [image](/makecode-blockeditor/reference/images/image), [create image](/makecode-blockeditor/reference/images/create-image), [scroll image](/makecode-blockeditor/reference/images/scroll-image), [show animation](/makecode-blockeditor/reference/basic/show-animation)
 

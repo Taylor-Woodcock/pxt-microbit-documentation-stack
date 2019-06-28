@@ -37,4 +37,4 @@ music.stopMelody(MelodyStopOptions.All)
 
 ## See also
 
-[start melody](/reference/music/begin-melody)
+[start melody](/makecode-blockeditor/reference/music/begin-melody)

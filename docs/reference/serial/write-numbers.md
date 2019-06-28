@@ -6,7 +6,7 @@ Write an array of numbers to the [serial](/device/serial) port.
 serial.writeNumbers([0, 1, 2]);
 ```
 
-Instead of writing a single number at a time using [write number](/reference/serial/write-number), you can write multiple numbers to the serial port at once. They are written as _Comma Separated Values (CSV)_.
+Instead of writing a single number at a time using [write number](/makecode-blockeditor/reference/serial/write-number), you can write multiple numbers to the serial port at once. They are written as _Comma Separated Values (CSV)_.
 
 You can write the numbers `0` through `5` together and they will appear as one line of serial output:
 
@@ -41,5 +41,5 @@ basic.forever(() => {
 ## See also
 
 [serial](/device/serial),
-[serial write line](/reference/serial/write-line),
-[serial write value](/reference/serial/write-value)
+[serial write line](/makecode-blockeditor/reference/serial/write-line),
+[serial write value](/makecode-blockeditor/reference/serial/write-value)

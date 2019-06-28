@@ -1,6 +1,6 @@
 # Pixel
 
-Get the state of a pixel in an [Image](/reference/images/image).
+Get the state of a pixel in an [Image](/makecode-blockeditor/reference/images/image).
 
 
 ## JavaScript
@@ -11,8 +11,8 @@ item.pixel(0, 0)
 ```
 ## Parameters
 
-* x - [Number](/types/number); the *x coordinate* or horizontal position of a pixel in an [image](/reference/images/image)
-* y - [Number](/types/number); the *y coordinate* or vertical position of a pixel in an [image](/reference/images/image)
+* x - [Number](/types/number); the *x coordinate* or horizontal position of a pixel in an [image](/makecode-blockeditor/reference/images/image)
+* y - [Number](/types/number); the *y coordinate* or vertical position of a pixel in an [image](/makecode-blockeditor/reference/images/image)
 
 ## x, y coordinates?
 
@@ -38,4 +38,4 @@ let state = img.pixel(0, 0)
 
 ## See also
 
-[set pixel](/reference/images/set-pixel), [show image](/reference/images/show-image), [image](/reference/images/image), [create image](/reference/images/create-image), [scroll image](/reference/images/scroll-image)
+[set pixel](/makecode-blockeditor/reference/images/set-pixel), [show image](/makecode-blockeditor/reference/images/show-image), [image](/makecode-blockeditor/reference/images/image), [create image](/makecode-blockeditor/reference/images/create-image), [scroll image](/makecode-blockeditor/reference/images/scroll-image)

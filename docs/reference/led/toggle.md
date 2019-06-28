@@ -11,7 +11,7 @@ led.toggle(0,0)
 * x - [Number](/types/number); the *x coordinate* or horizontal position (0, 1, 2, 3, 4)
 * y - [Number](/types/number); the *y coordinate* or vertical position (0, 1, 2, 3, 4)
 
-If a parameter is [out of bounds](/reference/out-of-bounds) (a value other than 0-4), then this function will do nothing.
+If a parameter is [out of bounds](/makecode-blockeditor/reference/out-of-bounds) (a value other than 0-4), then this function will do nothing.
 
 ## x, y coordinates?
 
@@ -27,5 +27,5 @@ led.toggle(2, 2)
 
 ## See also
 
-[toggle all](/reference/led/toggle-all), [plot](/reference/led/plot), [unplot](/reference/led/unplot), [point](/reference/led/point), [LED screen](/device/screen),
+[toggle all](/makecode-blockeditor/reference/led/toggle-all), [plot](/makecode-blockeditor/reference/led/plot), [unplot](/makecode-blockeditor/reference/led/unplot), [point](/makecode-blockeditor/reference/led/point), [LED screen](/device/screen),
 

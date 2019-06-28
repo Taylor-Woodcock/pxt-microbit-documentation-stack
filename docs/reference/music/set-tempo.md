@@ -17,5 +17,5 @@ music.setTempo(60)
 
 ## See also
 
-[play tone](/reference/music/play-tone), [ring tone](/reference/music/ring-tone) , [rest](/reference/music/rest), [tempo](/reference/music/tempo), [change tempo by](/reference/music/change-tempo-by)
+[play tone](/makecode-blockeditor/reference/music/play-tone), [ring tone](/makecode-blockeditor/reference/music/ring-tone) , [rest](/makecode-blockeditor/reference/music/rest), [tempo](/makecode-blockeditor/reference/music/tempo), [change tempo by](/makecode-blockeditor/reference/music/change-tempo-by)
 

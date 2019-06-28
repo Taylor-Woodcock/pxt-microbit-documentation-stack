@@ -35,5 +35,5 @@ led.plot(0, index)
 
 ## See also
 
-[analog read pin](/reference/pins/analog-read-pin)
+[analog read pin](/makecode-blockeditor/reference/pins/analog-read-pin)
 

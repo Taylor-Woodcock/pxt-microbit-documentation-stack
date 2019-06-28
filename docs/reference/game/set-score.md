@@ -27,4 +27,4 @@ input.onButtonPressed(Button.A, () => {
 
 ## See Also
 
-[score](/reference/game/score), [add score](/reference/game/add-score), [start countdown](/reference/game/start-countdown)
+[score](/makecode-blockeditor/reference/game/score), [add score](/makecode-blockeditor/reference/game/add-score), [start countdown](/makecode-blockeditor/reference/game/start-countdown)

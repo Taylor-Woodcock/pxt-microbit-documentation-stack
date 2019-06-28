@@ -24,5 +24,5 @@ input.onButtonPressed(Button.B, function () {
 
 ## See also
 
-[is paused](/reference/game/is-paused),
-[is game over](/reference/game/is-game-over)
+[is paused](/makecode-blockeditor/reference/game/is-paused),
+[is game over](/makecode-blockeditor/reference/game/is-game-over)

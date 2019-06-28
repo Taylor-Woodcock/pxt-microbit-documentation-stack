@@ -81,7 +81,7 @@ devices.tellRemoteControlTo(MesRemoteControlEvent.volumeDown)
 
 ## See also
 
-[tell camera to](/reference/devices/tell-camera-to), [raise alert to](/reference/devices/raise-alert-to)
+[tell camera to](/makecode-blockeditor/reference/devices/tell-camera-to), [raise alert to](/makecode-blockeditor/reference/devices/raise-alert-to)
 
 
 ```package

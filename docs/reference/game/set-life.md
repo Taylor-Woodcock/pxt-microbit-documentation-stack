@@ -22,5 +22,5 @@ game.setLife(9)
 
 ## See also #seealso
 
-[add life](/reference/game/add-life),
-[remove life](/reference/game/remove-life)
+[add life](/makecode-blockeditor/reference/game/add-life),
+[remove life](/makecode-blockeditor/reference/game/remove-life)

@@ -1,7 +1,7 @@
 # Forever
 
 Keep running part of a program 
-[in the background](/reference/control/in-background).
+[in the background](/makecode-blockeditor/reference/control/in-background).
 
 ```sig
 basic.forever(() => {
@@ -11,7 +11,7 @@ basic.forever(() => {
 ## Example: compass
 
 The following example constantly checks the 
-[compass heading](/reference/input/compass-heading) 
+[compass heading](/makecode-blockeditor/reference/input/compass-heading) 
 and updates the screen with the direction.
 
 ```blocks
@@ -66,5 +66,5 @@ input.onButtonPressed(Button.A, () => {
 
 ## See also
 
-[while](/blocks/loops/while), [on button pressed](/reference/input/on-button-pressed), [in background](/reference/control/in-background)
+[while](/blocks/loops/while), [on button pressed](/makecode-blockeditor/reference/input/on-button-pressed), [in background](/makecode-blockeditor/reference/control/in-background)
 

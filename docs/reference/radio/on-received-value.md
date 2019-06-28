@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=Re3H2ISfQE8
 This program keeps sending numbers that say how fast the @boardname@ is
 slowing down or speeding up. When it receives numbers for the same
 thing from nearby @boardname@s, show the numbers as a
-[bar graph](/reference/led/plot-bar-graph).
+[bar graph](/makecode-blockeditor/reference/led/plot-bar-graph).
 
 ```blocks
 basic.forever(() => {
@@ -45,12 +45,12 @@ The radio set group might need to be set, synchronized , before the radio events
 
 ## See also
 
-[on received number](/reference/radio/on-received-number),
-[received packet](/reference/radio/received-packet),
-[send number](/reference/radio/send-number),
-[send string](/reference/radio/send-string),
-[send value](/reference/radio/send-value),
-[set group](/reference/radio/set-group)
+[on received number](/makecode-blockeditor/reference/radio/on-received-number),
+[received packet](/makecode-blockeditor/reference/radio/received-packet),
+[send number](/makecode-blockeditor/reference/radio/send-number),
+[send string](/makecode-blockeditor/reference/radio/send-string),
+[send value](/makecode-blockeditor/reference/radio/send-value),
+[set group](/makecode-blockeditor/reference/radio/set-group)
 
 ```package
 radio

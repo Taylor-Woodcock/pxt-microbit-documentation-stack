@@ -25,5 +25,5 @@ for (let index = 0; index <= 7; index++) {
 
 ## See also
 
-[showIcon](/reference/basic/show-icon),
-[showLeds](/reference/basic/show-leds)
+[showIcon](/makecode-blockeditor/reference/basic/show-icon),
+[showLeds](/makecode-blockeditor/reference/basic/show-leds)

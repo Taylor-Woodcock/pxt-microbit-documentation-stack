@@ -26,4 +26,4 @@ input.onGesture(Gesture.FreeFall, () => {
 
 ## See Also
 
-[random](/reference/math/random)
+[random](/makecode-blockeditor/reference/math/random)

@@ -28,7 +28,7 @@ devices.onNotified(MesDeviceInfo.IncomingCall, () => {
 
 ## See Also
 
-[tell remote control to](/reference/devices/tell-remote-control-to), [raise alert to](/reference/devices/raise-alert-to), [signal strength](/reference/devices/signal-strength)
+[tell remote control to](/makecode-blockeditor/reference/devices/tell-remote-control-to), [raise alert to](/makecode-blockeditor/reference/devices/raise-alert-to), [signal strength](/makecode-blockeditor/reference/devices/signal-strength)
 
 ```package
 devices

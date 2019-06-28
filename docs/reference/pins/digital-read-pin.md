@@ -63,8 +63,8 @@ Remember to connect `GND` on both @boardname@s together!
 ## See also
 
 [@boardname@ pins](/device/pins),
-[digital write pin](/reference/pins/digital-write-pin),
-[analog read pin](/reference/pins/analog-read-pin),
-[analog write pin](/reference/pins/analog-write-pin),
-[on pin pressed](/reference/input/on-pin-pressed),
-[pin is pressed](/reference/input/pin-is-pressed)
+[digital write pin](/makecode-blockeditor/reference/pins/digital-write-pin),
+[analog read pin](/makecode-blockeditor/reference/pins/analog-read-pin),
+[analog write pin](/makecode-blockeditor/reference/pins/analog-write-pin),
+[on pin pressed](/makecode-blockeditor/reference/input/on-pin-pressed),
+[pin is pressed](/makecode-blockeditor/reference/input/pin-is-pressed)

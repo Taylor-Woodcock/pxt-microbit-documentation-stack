@@ -11,7 +11,7 @@ radio.onDataReceived(() => { });
 
 **Deprecated**
 
-This API has been deprecated! Use [on received number](/reference/radio/on-received-number) instead.
+This API has been deprecated! Use [on received number](/makecode-blockeditor/reference/radio/on-received-number) instead.
 
 ## ~
 
@@ -24,7 +24,7 @@ radio.onDataReceived(() => { });
 This program keeps sending numbers that says how fast the @boardname@ is
 slowing down or speeding up.  It also receives numbers for the same
 thing from nearby @boardname@s. It shows these numbers as a
-[bar graph](/reference/led/plot-bar-graph).
+[bar graph](/makecode-blockeditor/reference/led/plot-bar-graph).
 
 ```blocks
 basic.forever(() => {
@@ -37,8 +37,8 @@ radio.onDataReceived(() => {
 
 ## See also
 
-[on received number](/reference/radio/on-received-number),
-[send number](/reference/radio/send-number), [set group](/reference/radio/set-group)
+[on received number](/makecode-blockeditor/reference/radio/on-received-number),
+[send number](/makecode-blockeditor/reference/radio/send-number), [set group](/makecode-blockeditor/reference/radio/set-group)
 
 ```package
 radio

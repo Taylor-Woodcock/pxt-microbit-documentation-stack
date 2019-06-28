@@ -6,7 +6,7 @@ Write a data value to the SPI slave device and return its response.
 pins.spiWrite(0);
 ```
 
-Data values are written to a SPI slave device connected to the @boardname@ by the [SPI pins](/reference/pins/spi-pins). The data value might be either a command for the connected device or some value for its use. If the write operation causes the connected device to send a value back to the @boardname@, this will be the return value for the **spiWrite** function.
+Data values are written to a SPI slave device connected to the @boardname@ by the [SPI pins](/makecode-blockeditor/reference/pins/spi-pins). The data value might be either a command for the connected device or some value for its use. If the write operation causes the connected device to send a value back to the @boardname@, this will be the return value for the **spiWrite** function.
 
 ### ~ hint
 
@@ -41,8 +41,8 @@ serial.writeLine("WHOAMI register value: " + whoami)
 
 ## See also
 
-[spi pins](/reference/pins/spi-pins),
-[spi frequency](/reference/pins/spi-frequency),
-[spi format](/reference/pins/spi-format)
+[spi pins](/makecode-blockeditor/reference/pins/spi-pins),
+[spi frequency](/makecode-blockeditor/reference/pins/spi-frequency),
+[spi format](/makecode-blockeditor/reference/pins/spi-format)
 
 [SPI Programming](https://developer.mbed.org/handbook/SPI)

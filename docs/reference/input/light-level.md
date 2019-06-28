@@ -37,7 +37,7 @@ input.onButtonPressed(Button.B, () => {
 
 ## Example: chart light level
 
-This program shows the light level with a [bar chart](/reference/led/plot-bar-graph) on the @boardname@ screen.
+This program shows the light level with a [bar chart](/makecode-blockeditor/reference/led/plot-bar-graph) on the @boardname@ screen.
 If you carry the @boardname@ around to different places with different light levels,
 the bar chart will change.
 
@@ -49,5 +49,5 @@ basic.forever(() => {
 
 ## See also
 
-[acceleration](/reference/input/acceleration), [compass-heading](/reference/input/compass-heading)
+[acceleration](/makecode-blockeditor/reference/input/acceleration), [compass-heading](/makecode-blockeditor/reference/input/compass-heading)
 

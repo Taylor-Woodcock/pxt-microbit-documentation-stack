@@ -36,8 +36,8 @@ pins.spiPins(DigitalPin.P15, DigitalPin.P14, DigitalPin.P13);
 
 ## See also
 
-[spi write](/reference/pins/spi-write),
-[spi frequency](/reference/pins/spi-frequency),
-[spi format](/reference/pins/spi-format)
+[spi write](/makecode-blockeditor/reference/pins/spi-write),
+[spi frequency](/makecode-blockeditor/reference/pins/spi-frequency),
+[spi format](/makecode-blockeditor/reference/pins/spi-format)
 
 [SPI Programming](https://developer.mbed.org/handbook/SPI)

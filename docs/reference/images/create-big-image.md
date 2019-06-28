@@ -1,6 +1,6 @@
 # Create Big Image
 
-Make a big [image](/reference/images/image) (picture) for the @boardname@
+Make a big [image](/makecode-blockeditor/reference/images/image) (picture) for the @boardname@
 [LED screen](/device/screen). The big image made of two squares.
 Each of the squares is five LEDs on a side, like a regular image.
 
@@ -46,7 +46,7 @@ input.onButtonPressed(Button.B, () => {
 
 ## See also
 
-[image](/reference/images/image),
-[create image](/reference/images/create-image),
-[show image](/reference/images/show-image),
-[scroll image](/reference/images/scroll-image), [show animation](/reference/basic/show-animation)
+[image](/makecode-blockeditor/reference/images/image),
+[create image](/makecode-blockeditor/reference/images/create-image),
+[show image](/makecode-blockeditor/reference/images/show-image),
+[scroll image](/makecode-blockeditor/reference/images/scroll-image), [show animation](/makecode-blockeditor/reference/basic/show-animation)

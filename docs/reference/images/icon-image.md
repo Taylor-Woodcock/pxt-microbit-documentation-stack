@@ -1,6 +1,6 @@
 # icon Image
 
-Create an icon [image](/reference/images/image) for the [LED screen](/device/screen).
+Create an icon [image](/makecode-blockeditor/reference/images/image) for the [LED screen](/device/screen).
 
 ```sig
 images.iconImage(IconNames.Heart);
@@ -30,4 +30,4 @@ input.onButtonPressed(Button.B, () => {
 
 ## See also
 
-[arrow image](/reference/images/arrow-image)
+[arrow image](/makecode-blockeditor/reference/images/arrow-image)

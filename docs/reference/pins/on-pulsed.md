@@ -30,6 +30,6 @@ pins.onPulsed(DigitalPin.P2, PulseValue.Low, () => {
 
 ## See also
 
-[servo set pulse](/reference/pins/servo-set-pulse),
-[pulse duration](/reference/pins/pulse-duration),
-[digital read pin](/reference/pins/digital-read-pin)
+[servo set pulse](/makecode-blockeditor/reference/pins/servo-set-pulse),
+[pulse duration](/makecode-blockeditor/reference/pins/pulse-duration),
+[digital read pin](/makecode-blockeditor/reference/pins/digital-read-pin)

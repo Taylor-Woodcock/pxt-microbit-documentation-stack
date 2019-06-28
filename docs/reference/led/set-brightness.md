@@ -35,4 +35,4 @@ led.setBrightness(led.brightness() / 2)
 
 ## See also
 
-[brightness](/reference/led/brightness), [fade in](/reference/led/fade-in), [fade out](/reference/led/fade-out), [LED screen](/device/screen)
+[brightness](/makecode-blockeditor/reference/led/brightness), [fade in](/makecode-blockeditor/reference/led/fade-in), [fade out](/makecode-blockeditor/reference/led/fade-out), [LED screen](/device/screen)

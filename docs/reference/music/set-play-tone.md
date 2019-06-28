@@ -1,6 +1,6 @@
 # Set Play Tone
 
-Replaces the implementation of the [music play tone](/reference/music/play-tone).
+Replaces the implementation of the [music play tone](/makecode-blockeditor/reference/music/play-tone).
 
 
 ```sig
@@ -34,5 +34,5 @@ input.onButtonPressed(Button.B, () => {
 ```
 ## See also
 
-[rest](/reference/music/rest), [ring tone](/reference/music/ring-tone) , [tempo](/reference/music/tempo), [set tempo](/reference/music/set-tempo), 
-[change tempo by](/reference/music/change-tempo-by)
+[rest](/makecode-blockeditor/reference/music/rest), [ring tone](/makecode-blockeditor/reference/music/ring-tone) , [tempo](/makecode-blockeditor/reference/music/tempo), [set tempo](/makecode-blockeditor/reference/music/set-tempo), 
+[change tempo by](/makecode-blockeditor/reference/music/change-tempo-by)

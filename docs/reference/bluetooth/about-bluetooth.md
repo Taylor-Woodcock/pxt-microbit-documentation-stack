@@ -1,6 +1,6 @@
 # About Bluetooth
 
-![](/static/bluetooth/Bluetooth_SIG.png)
+![](/makecode-blockeditor/static/bluetooth/Bluetooth_SIG.png)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Services, Characteristics and Descriptors are all types of Attribute. Hence Gene
 
 Services, Characteristics and Descriptors are organised in a hierarchy with Services at the top and Descriptors at the bottom. Services contain one or more Characteristics. A Characteristic owns zero or more Descriptors. Zero because Descriptors are completely optional whereas a Service must contain at least one Characteristic.
 
-![](/static/bluetooth/gatt_hierarchy.png)
+![](/makecode-blockeditor/static/bluetooth/gatt_hierarchy.png)
   
 ## Services
 
@@ -58,7 +58,7 @@ A Bluetooth profile is a specification which pulls together all the required inf
 
 When a smartphone application interacts with a device like the @boardname@ over a Bluetooth connection we have a client/server architecture. The phone application is usually the GATT client and the @boardname@ is usually the GATT server. They communicate using a protocol called the Attribute Protocol or just ATT for short. As a smartphone developer you work with APIs and do not have to worry about formulating ATT protocol data units and so on.
 
-![](/static/bluetooth/services_and_GATT.png)
+![](/makecode-blockeditor/static/bluetooth/services_and_GATT.png)
 
 ## Device Discovery
 
@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=aep_GVowKfs
 
 ## See also
 
-[About Bluetooth](/reference/bluetooth/about-bluetooth), [@boardname@ Bluetooth profile overview ](http://lancaster-university.github.io/microbit-docs/ble/profile/), [@boardname@ Bluetooth profile reference](http://lancaster-university.github.io/microbit-docs/resources/bluetooth/microbit-profile-V1.9-Level-2.pdf),  [Bluetooth on @boardname@ resources](http://bluetooth-mdw.blogspot.co.uk/p/bbc-microbit.html), [Bluetooth SIG](https://www.bluetooth.com)
+[About Bluetooth](/makecode-blockeditor/reference/bluetooth/about-bluetooth), [@boardname@ Bluetooth profile overview ](http://lancaster-university.github.io/microbit-docs/ble/profile/), [@boardname@ Bluetooth profile reference](http://lancaster-university.github.io/microbit-docs/resources/bluetooth/microbit-profile-V1.9-Level-2.pdf),  [Bluetooth on @boardname@ resources](http://bluetooth-mdw.blogspot.co.uk/p/bbc-microbit.html), [Bluetooth SIG](https://www.bluetooth.com)
 
 ```package
 bluetooth

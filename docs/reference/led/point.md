@@ -15,7 +15,7 @@ led.point(0,0);
 * ``y`` is a [number](/types/number) that means the vertical
   spot on the LED screen (from top to bottom: 0, 1, 2, 3, or 4)
 
-If a parameter is [out of bounds](/reference/out-of-bounds) (a value
+If a parameter is [out of bounds](/makecode-blockeditor/reference/out-of-bounds) (a value
 other than 0 to 4), this function will return `false`.
 
 ## Returns
@@ -43,5 +43,5 @@ if (led.point(2, 2)) {
 
 ## See also
 
-[unplot](/reference/led/unplot), [plot](/reference/led/plot), [LED screen](/device/screen)
+[unplot](/makecode-blockeditor/reference/led/unplot), [plot](/makecode-blockeditor/reference/led/plot), [LED screen](/device/screen)
 
